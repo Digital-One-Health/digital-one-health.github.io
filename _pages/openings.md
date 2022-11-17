@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ## PhD Projects available
 1. [Project 1](#project1)
-2. [Project 2](#project2)
+
 <br>
 
 ### PhD Opportunities

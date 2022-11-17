@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [PURE](https://www.research.ed.ac.uk/en/persons/adrian-muwonge/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [PURE](https://www.research.ed.ac.uk/en/persons/adrian-muwonge/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
