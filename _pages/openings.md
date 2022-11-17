@@ -46,6 +46,6 @@ We would encourage applicants to list up to three projects of interest (ranked 1
 
 [FindAPhD](https://www.findaphd.com/phds/project/characterizing-amr-transmission-between-farmers-and-their-animals-within-productions-systems/?p150190)
 
-<figure>
+<!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
