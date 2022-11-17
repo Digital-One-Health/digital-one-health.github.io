@@ -10,8 +10,10 @@ The Digital One Health Laboratory are part of [The Roslin Institute](http://ed.a
 
 Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, https://project-thea.org/ .
 
+<!--
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+    <!- - Menu - ->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -22,7 +24,7 @@ Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veter
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+    <!- - Items - ->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -53,9 +55,9 @@ Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veter
   </a>
 </div>
 
+ -->
 
-
-
+<!--
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
@@ -70,4 +72,4 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+</figure> -->
