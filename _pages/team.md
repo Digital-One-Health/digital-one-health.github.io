@@ -1,13 +1,13 @@
 ---
-title: "DOHN - Team"
+title: "DOH - Team"
 layout: gridlay
-excerpt: "DOHN: Team members"
+excerpt: "DOH: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
-<!-- 
+<!--
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
