@@ -6,33 +6,33 @@ sitemap: false
 permalink: /
 ---
 
-The Digital One Health Laboratory are part of [The Roslin Institute](http://ed.ac.uk/roslin) at the [University of Edinburgh](https://www.ed.ac.uk), led by Chancellor's Fellow Dr Adrian Muwonge.
+<br>
 
-Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, https://project-thea.org/ .
+The Digital One Health Laboratory is part of [The Roslin Institute](http://ed.ac.uk/roslin) at the [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow Dr Adrian Muwonge.
 
-<!--
+Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, [Project-THEA](https://project-thea.org).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!- - Menu - ->
+    <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <!-- <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
-    <!- - Items - ->
+    <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/projectTHEA.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FlemingUganda2022jumping.jpeg" alt="Slide 2" />
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
@@ -43,7 +43,7 @@ Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veter
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
+        </div> -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -55,7 +55,7 @@ Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veter
   </a>
 </div>
 
- -->
+
 
 <!--
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
