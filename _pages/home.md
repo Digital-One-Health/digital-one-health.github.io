@@ -7,11 +7,6 @@ permalink: /
 ---
 
 <br>
-
-The Digital One Health Laboratory is part of [The Roslin Institute](http://ed.ac.uk/roslin) at the [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow Dr Adrian Muwonge.
-
-Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, [Project-THEA](https://project-thea.org).
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -54,7 +49,11 @@ Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veter
     <span class="sr-only">Next</span>
   </a>
 </div>
+<br>
 
+The Digital One Health Laboratory is part of [The Roslin Institute](http://ed.ac.uk/roslin) at the [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow Dr Adrian Muwonge.
+
+Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, [Project-THEA](https://project-thea.org).
 
 
 <!--
