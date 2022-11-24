@@ -12,9 +12,31 @@
   photo: bryanwee.jpg
   info: Core Scientist
   email: b.wee@ed.ac.uk
-  number_educ: 4
+  number_educ: 5
   education1: Postdoc with Epigroup, University of Edinburgh
   education2: Postdoc with <a href="https://www.ed.ac.uk/roslin/lbep">LBEP</a>, University of Edinburgh
   education3: PhD with <a href="https://beatsonlab.com/">Beatson Lab</a>, University of Queensland
   education4: Master of Molecular Biology, University of Queensland
-  education5: BSc Zoology, Universiti Kebangsaan Malaysia
+  education5: Website <a href="https://bawee.github.io">bawee.github.io</a>
+
+- name: Carys Redman-White
+  photo: scientist.png
+  info: PhD Student (Co-Supervised)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Timothy Lee
+  photo: scientist.png
+  info: PhD Student (Co-Supervised)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Vesa Qarkaxhija
+  photo: scientist.png
+  info: PhD Student (Co-Supervised)
+  email: 
+  number_educ: 0
+  education1:
+
