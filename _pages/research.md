@@ -10,6 +10,17 @@ permalink: /research/
 
 
 
+#### Software
+
+**Clinical Metagenomics**
+
+[Clinical Metagenomics](https://clinical-metagenomics.shinyapps.io/clinical-metagenomics/) tracks microbiome variance and identifies bacterial genera responsible for significant variance shifts using 16S rRNA gene metabarcoding for longitudinal data. The unique value of this approach is that it goes beyond presence, absence and abundance of genera, as is commonly the case in 16S microbiome studies. Since gut and lung microbiome analyses use DNA extracted from faecal and sputum samples respectively, they only represent a distribution of their respective anatomical compartments. So, making inferences based on presence and absence of individual units (genera) of the distribution might be misleading. In this prototype tool, variance is tracked using three microbiome attributes/parameters i.e. prevalence, abundance and co-occurrence network along a temporal scale identifying genera responsible for dramatic shifts in variance at each temporal point.
+
+**Biome360**
+
+[Biome360](https://biome360.shinyapps.io/shinyapp/) performs interactive visualisation of microbiome data and the results of different types of analyses (E.g. virulence genes, AMR genes, Mobile Genetic Elements, and Species of Interest)
+
+
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
