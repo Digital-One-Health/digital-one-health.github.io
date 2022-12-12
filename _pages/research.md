@@ -12,6 +12,9 @@ permalink: /research/
 
 #### Software
 
+**Project THEA (Tracking Haulage in East Africa)**
+[Project THEA]](https://project-thea.org/) aims to deliver an open-access digital contact tracing system tailored to the haulage industry. The tool is designed to combine anonymized time-stamped geo-location information relative to the road infrastructure with COVID-19 test results to support public health efforts to limit transmission and the safe reopening of economies. Critically the efficiency in contact tracing enhances the flow of the regional supply chain and strategic allocation of public health surveillance resources.
+
 **Clinical Metagenomics**
 
 [Clinical Metagenomics](https://clinical-metagenomics.shinyapps.io/clinical-metagenomics/) tracks microbiome variance and identifies bacterial genera responsible for significant variance shifts using 16S rRNA gene metabarcoding for longitudinal data. The unique value of this approach is that it goes beyond presence, absence and abundance of genera, as is commonly the case in 16S microbiome studies. Since gut and lung microbiome analyses use DNA extracted from faecal and sputum samples respectively, they only represent a distribution of their respective anatomical compartments. So, making inferences based on presence and absence of individual units (genera) of the distribution might be misleading. In this prototype tool, variance is tracked using three microbiome attributes/parameters i.e. prevalence, abundance and co-occurrence network along a temporal scale identifying genera responsible for dramatic shifts in variance at each temporal point.
