@@ -26,7 +26,6 @@
   number_educ: 1
   education1: Masters in Evironmental Science, ETH Zurich
 
-
 - name: Carys Redman-White
   photo: scientist.png
   info: PhD Student (Co-Supervised)
@@ -48,3 +47,9 @@
   number_educ: 0
   education1:
 
+- name: Monica Mbabazi
+  photo: scientist.png
+  info: PhD Student (Co-Supervised)
+  email: 
+  number_educ: 0
+  education1:
