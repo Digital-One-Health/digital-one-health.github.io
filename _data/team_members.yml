@@ -1,23 +1,30 @@
 - name: Dr Adrian Muwonge
   photo: adrianmuwonge.jpg
   info: Chancellor's Fellow, Group Leader
-  email: adrian.muwonge@roslin.ed.ac.uk
+  #email: adrian.muwonge@roslin.ed.ac.uk
+  bio: I am a molecular epidemiologist with ten years of research experience at the African human-animal interface. As a University of Edinburgh Chancellor’s Fellow, my research currently focuses on integrating one health data streams to inform public health strategies. Beyond the biological signals of the data, I examine how such data becomes a shared resource without violating ethical, legal and social boundaries. This has informed conversation around a concept we now call “digital one health”. I am specifically examining this concept in line with how countries use one health to deliver antimicrobial resistance (AMR) National Action Plans (NAPs). One health is primarily viewed as how people in sectors collaborate but less as how the data streams integrate. This work builds on Fleming Fund AMR capacity-building activities I co-lead in Uganda, Kenya and Malawi. These all build on fundamental research I have done examining the livestock production system drivers of AMR at the human-animal interface in Uganda. The Roslin Institute is a world-leading bioscience facility that has supported my ambition to deliver scientific evidence, policy and capacity building for the human-animal interface. I have also recently partnered with the school of informatics to bring digital tools to this interface.
   number_educ: 3
-
   education1: Doctor of Philosophy (PhD), Norwegian University of Life Science
   education2: Master of Public Health, Norwegian University of Life Science
   education3: Bachelors in Veterinary Medicine & Surgery, Makerere University
 
 - name: Dr Bryan Wee
   photo: bryanwee.jpg
-  info: Core Scientist
-  email: b.wee@ed.ac.uk
-  number_educ: 5
-  education1: Postdoc with Epigroup, University of Edinburgh
-  education2: Postdoc with <a href="https://www.ed.ac.uk/roslin/lbep">LBEP</a>, University of Edinburgh
-  education3: PhD with <a href="https://beatsonlab.com/">Beatson Lab</a>, University of Queensland
-  education4: Master of Molecular Biology, University of Queensland
-  education5: Website <a href="https://bawee.github.io">bawee.github.io</a>
+  info: Core Scientist 
+  #email: b.wee@ed.ac.uk
+  bio:  
+  number_educ: 0  
+  education1: Doctor of Philosophy (PhD), University of Queensland
+  education2: Master of Molecular Biology, University of Queensland
+  education3: Bachelor of Science, National University of Malaysia
+
+- name: Kathrin Loosli
+  photo: scientist.png
+  info: PhD Student (Co-Supervised with Dr Tiziana Lembo)
+  email: 
+  number_educ: 1
+  education1: Masters in Evironmental Science, ETH Zurich
+
 
 - name: Carys Redman-White
   photo: scientist.png
