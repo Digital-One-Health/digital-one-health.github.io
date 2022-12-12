@@ -42,7 +42,7 @@ This 3.5 year studentship opportunity is open to UK and international students a
 
 When applying for the studentship please state clearly the project title/s and the supervisor/s in your covering letter.
 
-We would encourage applicants to list up to three projects of interest (ranked 1st, 2nd and 3rd choice) from those listed with a closing date of 4th January 2023 at this [webisite](https://www.ed.ac.uk/roslin/work-study/opportunities/studentships)
+We would encourage applicants to list up to three projects of interest (ranked 1st, 2nd and 3rd choice) from those listed with a closing date of 4th January 2023 at this [website](https://www.ed.ac.uk/roslin/work-study/opportunities/studentships)
 
 [FindAPhD](https://www.findaphd.com/phds/project/characterizing-amr-transmission-between-farmers-and-their-animals-within-productions-systems/?p150190)
 
