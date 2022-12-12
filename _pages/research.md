@@ -13,7 +13,17 @@ permalink: /research/
 #### Software
 
 **Project THEA (Tracking Haulage in East Africa)**
-[Project THEA]](https://project-thea.org/) aims to deliver an open-access digital contact tracing system tailored to the haulage industry. The tool is designed to combine anonymized time-stamped geo-location information relative to the road infrastructure with COVID-19 test results to support public health efforts to limit transmission and the safe reopening of economies. Critically the efficiency in contact tracing enhances the flow of the regional supply chain and strategic allocation of public health surveillance resources.
+[Project THEA](https://project-thea.org/) aims to deliver an open-access digital contact tracing system tailored to the haulage industry. The tool is designed to combine anonymized time-stamped geo-location information relative to the road infrastructure with COVID-19 test results to support public health efforts to limit transmission and the safe reopening of economies. Critically the efficiency in contact tracing enhances the flow of the regional supply chain and strategic allocation of public health surveillance resources.
+
+**THEA-GS**
+[THEA-GS]](https://project-thea.github.io/thea-gs/): An open source platform for digital contact tracing
+
+**Genopaths**
+[Genopaths]](https://genopaths.africa) is platform to enable One Health pathogen genome surveillance. Genopaths can analyse, store and share sequencing data across our participating laboratory network. Fast and ethical sharing of actionable epidemiological data is the catalyst for rapid and effective responses to disease outbreaks.
+
+**PorkMart**
+
+[PorkMart]](https://www.pork-mart.com/) aims to deliver real-time market intelligence on the pork value chain for Uganda. It leverages stakeholder inputs, market research and state of the art data science to deliver actionable end user information.
 
 **Clinical Metagenomics**
 
