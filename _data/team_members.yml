@@ -2,7 +2,7 @@
   photo: adrianmuwonge.jpg
   info: Chancellor's Fellow, Group Leader
   #email: adrian.muwonge@roslin.ed.ac.uk
-  bio: I am a molecular epidemiologist with ten years of research experience at the African human-animal interface. As a University of Edinburgh Chancellor’s Fellow, my research currently focuses on integrating one health data streams to inform public health strategies. Beyond the biological signals of the data, I examine how such data becomes a shared resource without violating ethical, legal and social boundaries. This has informed conversation around a concept we now call “digital one health”. I am specifically examining this concept in line with how countries use one health to deliver antimicrobial resistance (AMR) National Action Plans (NAPs). One health is primarily viewed as how people in sectors collaborate but less as how the data streams integrate. This work builds on Fleming Fund AMR capacity-building activities I co-lead in Uganda, Kenya and Malawi. These all build on fundamental research I have done examining the livestock production system drivers of AMR at the human-animal interface in Uganda. The Roslin Institute is a world-leading bioscience facility that has supported my ambition to deliver scientific evidence, policy and capacity building for the human-animal interface. I have also recently partnered with the school of informatics to bring digital tools to this interface.
+  bio: I am a molecular epidemiologist with ten years of research experience at the African human-animal interface. As a University of Edinburgh Chancellor’s Fellow, my research currently focuses on integrating one health data streams to inform public health strategies. Beyond the biological signals of the data, I examine how such data becomes a shared resource without violating ethical, legal and social boundaries. This has informed conversation around a concept we now call “Digital One Health”. I am specifically examining this concept in line with how countries use one health to deliver antimicrobial resistance (AMR) National Action Plans (NAPs). One Health is primarily viewed as how people in sectors collaborate but less as how the data streams integrate. This work builds on Fleming Fund AMR capacity-building activities I co-lead in Uganda, Kenya and Malawi. These all build on fundamental research I have done examining the livestock production system drivers of AMR at the human-animal interface in Uganda. The Roslin Institute is a world-leading bioscience facility that has supported my ambition to deliver scientific evidence, policy and capacity building for the human-animal interface. I have also recently partnered with the School of Informatics to bring digital tools to this interface.
   number_educ: 3
   education1: Doctor of Philosophy (PhD), Norwegian University of Life Science
   education2: Master of Public Health, Norwegian University of Life Science
@@ -13,22 +13,23 @@
   info: Core Scientist 
   #email: b.wee@ed.ac.uk
   bio: Bryan’s research uses genome and metagenome sequencing to answer a range of evolutionary questions about bacterial pathogens. He has worked on a diverse range of bacterial pathogens from all facets of the One Health continuum, including both human and animal pathogens, as well as environmental bacteria. Bryan has also used statistical approaches to interrogate these large genomic datasets to identify how virulence and resistance genes are distributed across pathogenic species of bacteria.
-  number_educ: 3
+  number_educ: 4
   education1: Doctor of Philosophy (PhD), University of Queensland
   education2: Master of Molecular Biology, University of Queensland
   education3: Bachelor of Science, National University of Malaysia
+  education4: Personal website <a href="https://bawee.github.io">bawee.github.io</a>
+
 
 - name: Kathrin Loosli
   photo: kathrinloosli.jpg
   info: PhD Student (Co-Supervised with Dr Tiziana Lembo)
-  bio: My PhD focuses on investigating antibiotic quality, use, access and demand in northern Tanzanian communities. I aim to understand where patients and farmers obtain their antibiotics from and how these are prescribed, dispensed and used in people and animals. Ultimately, I am interested in how practices around health seeking and antibiotic use influence the risk of antimicrobial resistance (AMR) development and how this risk could be mitigated through tailored interventions. <br> I love being out in nature, travelling, hiking and exploring new places. I am also a passionate dancer (bachata, salsa) and enjoy cooking and baking! My favourite animal is an owl, I have a collection of about 40 owl figurines from all over the world at home.
+  bio: My PhD focuses on investigating antibiotic quality, use, access and demand in northern Tanzanian communities. I aim to understand where patients and farmers obtain their antibiotics from and how these are prescribed, dispensed and used in people and animals. Ultimately, I am interested in how practices around health seeking and antibiotic use influence the risk of antimicrobial resistance (AMR) development and how this risk could be mitigated through tailored interventions. <br><br> I love being out in nature, travelling, hiking and exploring new places. I am also a passionate dancer (bachata, salsa) and enjoy cooking and baking! My favourite animal is an owl, I have a collection of about 40 owl figurines from all over the world at home.
   email: 
-  number_educ: 2
-  education1: MSc in Evironmental Science, ETH Zurich
+  number_educ: 4
+  education1: MSc in Evironmental Science, ETH Zürich
   education2: BSc Environmental Science; ETH Zürich
-  education3: Twitter [@KathrinLoosli](https://twitter.com/KathrinLoosli)
-  education4: Personal Website https://www.gla.ac.uk/pgrs/kathrinloosli/
-
+  education3: Twitter <a href="https://twitter.com/KathrinLoosli">@KathrinLoosli</a>
+  education4: <a href="https://www.gla.ac.uk/pgrs/kathrinloosli/">Personal Website</a>
 
 - name: Carys Redman-White
   photo: scientist.png
