@@ -33,11 +33,15 @@
   education4: <a href="https://www.gla.ac.uk/pgrs/kathrinloosli/">Personal Website</a>
 
 - name: Carys Redman-White
-  photo: scientist.png
+  photo: carysredmanwhite.jpg
   info: PhD Student (Co-Supervised)
+  bio: Carys is using interdisciplinary data- and modelling-focused methods to investigate antimicrobial use (AMU) and resistance (AMR) at the livestock-human interface in sub-Saharan Africa, working with SEBI-Livestock and the Global Academy of Agriculture and Food Security. She is exploring the AMU/AMR landscape from a One Health systems perspective and investigating how existing data covering a range of biological, socioeconomic, and environmental factors can be mobilised to fill knowledge gaps in resource-poor locations where direct surveillance of antimicrobials is challenging. Carys is studying with the EASTBIO Doctoral Training Partnership and is supervised in her PhD by Professor Dominic Moran, Professor Andy Peters, and Dr Adrian Muwonge. She can be found on Twitter as <a href="https://twitter.com/BioCarys">@BioCarys</a>@BioCarys and is a co-host of the Edinburgh University AMR Forum Podcast, in which she is sometimes joined by her cat, Khoshekh.
   email: 
-  number_educ: 0
-  education1:
+  number_educ: 3
+  education1: MRes Epidemiology, Newcastle University
+  education2: VetMB Veterinary Medicine, University of Cambridge
+  education3: MA Natural Sciences (Zoology), University of Cambridge
+
 
 - name: Timothy Lee
   photo: scientist.png
