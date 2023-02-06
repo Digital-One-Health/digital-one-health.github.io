@@ -67,7 +67,9 @@
 - name: Vesa Q
   photo: scientist.png
   info: PhD Student (Co-Supervised)
+  bio: My PhD focuses on bacterial and AMR transmission within agricultural supply chains in Malawi in collaboration with the Fleming Fund there. I will apply a one health approach using genomics to identify transmission vertically through the supply chain and horizontally across humans, animals and the environment, alongside machine learning to assess zoonotic risk of strains. Additionally, investigating accessibility to antibiotics as a determinant of AMR prevalence found using spatial mapping. Previous to this, I worked in developing infectious disease vaccines in an Oxford Biotech.
   email: 
   number_educ: 0
-  education1:
+  education1: MSc Genetics and Molecular Medicine, University of Edinburgh
+  education2: BSc Biochemistry, University of Portsmouth
 
