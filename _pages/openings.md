@@ -5,8 +5,10 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
+#### No vacancies are currently available
 
-## PhD Projects available
+<!-- 
+
 1. [Project 1](#project1) *APPLICATIONS CLOSED*
 
 <br>
@@ -44,7 +46,7 @@ When applying for the studentship please state clearly the project title/s and t
 
 We would encourage applicants to list up to three projects of interest (ranked 1st, 2nd and 3rd choice) from those listed with a closing date of 4th January 2023 at this [website](https://www.ed.ac.uk/roslin/work-study/opportunities/studentships)
 
-[FindAPhD](https://www.findaphd.com/phds/project/characterizing-amr-transmission-between-farmers-and-their-animals-within-productions-systems/?p150190)
+[FindAPhD](https://www.findaphd.com/phds/project/characterizing-amr-transmission-between-farmers-and-their-animals-within-productions-systems/?p150190) -->
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">

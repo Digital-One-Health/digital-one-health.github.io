@@ -1,6 +1,6 @@
-- name: Dr Adrian Muwonge
+- name: <b>Principal Investigator</b><br>Dr Adrian Muwonge
   photo: adrianmuwonge.jpg
-  info: Chancellor's Fellow, Group Leader
+  info: Chancellor's Fellow in Digital One Health
   #email: adrian.muwonge@roslin.ed.ac.uk
   bio: I am a molecular epidemiologist with ten years of research experience at the African human-animal interface. As a University of Edinburgh Chancellor’s Fellow, my research currently focuses on integrating one health data streams to inform public health strategies. Beyond the biological signals of the data, I examine how such data becomes a shared resource without violating ethical, legal and social boundaries. This has informed conversation around a concept we now call “Digital One Health”. I am specifically examining this concept in line with how countries use one health to deliver antimicrobial resistance (AMR) National Action Plans (NAPs). One Health is primarily viewed as how people in sectors collaborate but less as how the data streams integrate. This work builds on Fleming Fund AMR capacity-building activities I co-lead in Uganda, Kenya and Malawi. These all build on fundamental research I have done examining the livestock production system drivers of AMR at the human-animal interface in Uganda. The Roslin Institute is a world-leading bioscience facility that has supported my ambition to deliver scientific evidence, policy and capacity building for the human-animal interface. I have also recently partnered with the School of Informatics to bring digital tools to this interface.
   number_educ: 3
@@ -19,57 +19,4 @@
   education3: Bachelor of Science, Universiti Kebangsaan Malaysia
   education4: Personal website <a href="https://bawee.github.io">bawee.github.io</a>
   education5: Publications on <a href="https://scholar.google.com/citations?hl=en&user=Ua8vr-QAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-
-
-- name: Kathrin Loosli
-  photo: kathrinloosli.jpg
-  info: PhD Student (Co-Supervised with Dr Tiziana Lembo)
-  bio: My PhD focuses on investigating antibiotic quality, use, access and demand in northern Tanzanian communities. I aim to understand where patients and farmers obtain their antibiotics from and how these are prescribed, dispensed and used in people and animals. Ultimately, I am interested in how practices around health seeking and antibiotic use influence the risk of antimicrobial resistance (AMR) development and how this risk could be mitigated through tailored interventions. <br><br> I love being out in nature, travelling, hiking and exploring new places. I am also a passionate dancer (bachata, salsa) and enjoy cooking and baking! My favourite animal is an owl, I have a collection of about 40 owl figurines from all over the world at home.
-  email: 
-  number_educ: 4
-  education1: MSc in Evironmental Science, ETH Zürich
-  education2: BSc Environmental Science; ETH Zürich
-  education3: Twitter <a href="https://twitter.com/KathrinLoosli">@KathrinLoosli</a>
-  education4: <a href="https://www.gla.ac.uk/pgrs/kathrinloosli/">Personal Website</a>
-
-- name: Carys Redman-White
-  photo: carysredmanwhite.jpg
-  info: PhD Student (Co-Supervised)
-  bio: Carys is using interdisciplinary data- and modelling-focused methods to investigate antimicrobial use (AMU) and resistance (AMR) at the livestock-human interface in sub-Saharan Africa, working with SEBI-Livestock and the Global Academy of Agriculture and Food Security. She is exploring the AMU/AMR landscape from a One Health systems perspective and investigating how existing data covering a range of biological, socioeconomic, and environmental factors can be mobilised to fill knowledge gaps in resource-poor locations where direct surveillance of antimicrobials is challenging. Carys is studying with the EASTBIO Doctoral Training Partnership and is supervised in her PhD by Professor Dominic Moran, Professor Andy Peters, and Dr Adrian Muwonge. She can be found on Twitter as <a href="https://twitter.com/BioCarys">@BioCarys</a> and is a co-host of the Edinburgh University AMR Forum Podcast, in which she is sometimes joined by her cat, Khoshekh.
-  email: 
-  number_educ: 3
-  education1: MRes Epidemiology, Newcastle University
-  education2: VetMB Veterinary Medicine, University of Cambridge
-  education3: MA Natural Sciences (Zoology), University of Cambridge
-
-- name: Timothy Lee
-  photo: scientist.png
-  info: PhD Student (Co-Supervised)  
-  bio: My PhD examines <i>Staphylococcus aureus</i> isolates obtained from communities in Uganda for antimicrobial resistance, as well as survey data on antibiotic use and prescription across animals and humans to explain antimicrobial resistance emergence. I also have some background in biomedical ethics, and am interested in exploring the bioethical dimensions of data collection for surveillance and tracking of AMR.
-  email: 
-  number_educ: 3
-  education1: MSc Biotechnology, University of Melbourne
-  education2: HBSc Molecular Biology and Biotechnology, University of Toronto
-  education3: Twitter <a href="https://twitter.com/TimNicholasLee">@TimNicholasLee</a>
-
-- name: Monica Mbabazi
-  photo: scientist.png
-  info: PhD Student (Co-Supervised)
-  bio: I completed my MSc in Immunology and Clinical Microbiology at Makerere University under the supervision of Dr. Adrian Muwonge and Dr. David Patrick Kateete. Following the master’s degree, I undertook a pre-doctoral mentorship in Bioinformatics and Computational Biology at Makerere University in collaboration with the University of Georgia.<br><br>Currently, I am pursuing a PhD in Bioinformatics and my research interest is exploring the role of host microbiota in fighting infectious diseases. My PhD research project is entitled “Unraveling the Role of Gut and Lung Microbiota in Pulmonary Tuberculosis” under the supervision of Dr. Adrian Muwonge.
-  email: 
-  number_educ: 4
-  education1: MSc in Immunology and Clinical Microbiology, Makerere University
-  education2: Predoctoral mentorship in Bioinformatics and Computational Biology, Makerere University and University of Georgia
-  education3: <a href="https://github.com/MonicaMbabazi">Github</a>
-  education4: <a href="https://www.linkedin.com/in/monica-mbabazi-3b8244144/">LinkedIn</a>
-
-
-- name: Vesa Qarkaxhija
-  photo: scientist.png
-  info: PhD Student (Co-Supervised)
-  bio: My PhD focuses on bacterial and AMR transmission within agricultural supply chains in Malawi in collaboration with the Fleming Fund there. I will apply a one health approach using genomics to identify transmission vertically through the supply chain and horizontally across humans, animals and the environment, alongside machine learning to assess zoonotic risk of strains. Additionally, investigating accessibility to antibiotics as a determinant of AMR prevalence found using spatial mapping. Previous to this, I worked in developing infectious disease vaccines in an Oxford Biotech.
-  email: 
-  number_educ: 0
-  education1: MSc Genetics and Molecular Medicine, University of Edinburgh
-  education2: BSc Biochemistry, University of Portsmouth
 
