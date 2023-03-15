@@ -20,10 +20,6 @@ permalink: /research/
 
 [THEA-GS](https://project-thea.github.io/thea-gs/): An open source platform for digital contact tracing
 
-**Genopaths**
-
-[Genopaths](https://genopaths.africa) is platform to enable One Health pathogen genome surveillance. Genopaths can analyse, store and share sequencing data across our participating laboratory network. Fast and ethical sharing of actionable epidemiological data is the catalyst for rapid and effective responses to disease outbreaks.
-
 **PorkMart**
 
 [PorkMart](https://www.pork-mart.com/) aims to deliver real-time market intelligence on the pork value chain for Uganda. It leverages stakeholder inputs, market research and state of the art data science to deliver actionable end user information.
@@ -36,6 +32,9 @@ permalink: /research/
 
 [Biome360](https://biome360.shinyapps.io/shinyapp/) performs interactive visualisation of microbiome data and the results of different types of analyses (E.g. virulence genes, AMR genes, Mobile Genetic Elements, and Species of Interest)
 
+**Genopaths**
+
+[Genopaths](https://genopaths.africa) is platform to enable One Health pathogen genome surveillance. Genopaths can analyse, store and share sequencing data across our participating laboratory network. Fast and ethical sharing of actionable epidemiological data is the catalyst for rapid and effective responses to disease outbreaks.
 
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
@@ -73,4 +72,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
-### ... and more. -->
+### {{ site.url }}{{ site.baseurl }}. and more. -->

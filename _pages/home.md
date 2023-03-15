@@ -22,11 +22,20 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/projectTHEA.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHN.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FlemingUganda2022jumping.jpeg" alt="Slide 2" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/projectTHEA.png" alt="Slide 3" />
+        </div>
+
+
+
+
+
+
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
@@ -51,9 +60,16 @@ permalink: /
 </div>
 <br>
 
-The Digital One Health Laboratory is part of [The Roslin Institute](http://ed.ac.uk/roslin) at the [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow Dr Adrian Muwonge.
+The Digital One Health Laboratory is based at [The Roslin Institute](http://ed.ac.uk/roslin), [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow **Dr Adrian Muwonge**.
 
-Adrian is a Chancellor’s Fellow focusing on “digital one-health”, as veterinarian he specialised in molecular epidemiology and now develops technology to enable implementation of one-health strategies in Africa. His main area of research is Antimicrobial resistance (AMR) development and dissemination at the human-animal interface. Here Adrian is developing genomic analytical pipelines to support the utility clinical metagenomics in AMR research and training for developing countries such as Uganda and Malawi. He is also developing distributed Ledger technology for mapping antibiotic usage whose output can be used to estimate antibiotic resistance across temporal and spatial scales. Furthermore, Adrian leads a team of epidemiologist, clinicians, social scientist, bio-ethicists and software engineers that are developing and implementing a digital track and trace system tailored to haulage in East Africa, [Project-THEA](https://project-thea.org).
+**Basic research:** Our basic science research focuses on the drivers for emergence and transmission of AMR with a special focus on dynamics at the human and animal interface.
+
+**Training:** Our our post graduate training equips early career researchers with skills to generate and use evidence to support AMR National action plans.<br>
+Msc<br>
+<a href="./team/#students">PhDs</a><br>
+[Fleming Fund Fellowships](https://www.ed.ac.uk/edinburgh-infectious-diseases/fleming-fund-fellowships-scheme)
+
+[**Software development:**](research.html) We develop tools that support the integration that generates a shared data resource for one health decision making.
 
 
 <!--
