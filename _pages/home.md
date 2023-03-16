@@ -62,14 +62,14 @@ permalink: /
 
 The Digital One Health Laboratory is based at [The Roslin Institute](http://ed.ac.uk/roslin), [University of Edinburgh](https://www>.ed.ac.uk), led by Chancellor's Fellow **Dr Adrian Muwonge**.
 
-**Basic research:** Our basic science research focuses on the drivers for emergence and transmission of AMR with a special focus on dynamics at the human and animal interface.
+[**Basic research:**](./research/#Projects) Our basic science research focuses on the drivers for emergence and transmission of AMR with a special focus on dynamics at the human and animal interface.
 
 **Training:** Our our post graduate training equips early career researchers with skills to generate and use evidence to support AMR National action plans.<br>
 Msc<br>
 <a href="./team/#students">PhDs</a><br>
 [Fleming Fund Fellowships](https://www.ed.ac.uk/edinburgh-infectious-diseases/fleming-fund-fellowships-scheme)
 
-[**Software development:**](research.html) We develop tools that support the integration that generates a shared data resource for one health decision making.
+[**Software development:**](./research/#Software) We develop tools that support the integration that generates a shared data resource for one health decision making.
 
 
 <!--

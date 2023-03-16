@@ -7,8 +7,28 @@ permalink: /research/
 ---
 
 # Research
+<!-- tag below to link from home page -->
+<a id="Projects">
+
+#### Projects
+
+Fleming Fund Fellowship- Phase II
+
+Digital contact tracing THEA-C19 project
+
+Digital One Health tools for AMR
+
+AMR transmission between Farmers and Animals
+
+Digital tools for Livestock AMU surveillance with private sector
+
+Environmental and Economic Impacts of Improved Antibiotics Stewardship in Poultry Systems
+
+Tools to support livestock breeding services
 
 
+<!-- tag below to link from home page -->
+<a id="Software"> 
 
 #### Software
 
