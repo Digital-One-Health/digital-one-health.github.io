@@ -1,0 +1,24 @@
+---
+title: Leaflet
+leafletmap: true
+always_allow_html: yes
+last_modified_at: 2023-03-16
+output:
+ github_document:
+  html_preview: false
+---
+
+
+```{r}
+
+library(leaflet)
+
+
+data = read.csv("/Users/bwee/Library/CloudStorage/OneDrive-UniversityofEdinburgh/Documents/Muwonge_Lab/docs/github/digital-one-health.github.io/leaflet/network.csv", header = TRUE)
+
+m <- leaflet(data) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(~long, ~lat, popup = ~as.character(label))
+
+m
+```
