@@ -11,7 +11,7 @@ permalink: /network.html
 <br>
 
 #### Digital One Health Network
-<img src="{{ site.url }}{{ site.baseurl }}/images/DOHNetwork.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/DOHNetwork.jpg" width="70%" >
 
 #### Edinburgh-Copenhagen 
 
