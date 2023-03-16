@@ -1,0 +1,13 @@
+```{r}
+
+library(leaflet)
+
+
+data = read.csv("/Users/bwee/Library/CloudStorage/OneDrive-UniversityofEdinburgh/Documents/Muwonge_Lab/docs/github/digital-one-health.github.io/leaflet/network.csv", header = TRUE)
+
+m <- leaflet(data) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(~long, ~lat, popup = ~as.character(label))
+
+m
+```
