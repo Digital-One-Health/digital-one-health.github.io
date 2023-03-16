@@ -58,7 +58,8 @@ Tools to support livestock breeding services
 
 <br>
 ### Digital Tools
-![]({{ site.url }}{{ site.baseurl }}/images/digital_tools.jpg){: style="width: 100%; float: center; margin: 0px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/digitaltools.jpg){: style="width: 80%; float: center; margin: 0px"}
 
 <br>
 ### Funders
