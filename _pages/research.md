@@ -57,6 +57,10 @@ Tools to support livestock breeding services
 [Genopaths](https://genopaths.africa) is platform to enable One Health pathogen genome surveillance. Genopaths can analyse, store and share sequencing data across our participating laboratory network. Fast and ethical sharing of actionable epidemiological data is the catalyst for rapid and effective responses to disease outbreaks.
 
 <br>
+### Digital Tools
+![]({{ site.url }}{{ site.baseurl }}/images/digital_tools.jpg){: style="width: 100%; float: center; margin: 0px"}
+
+<br>
 ### Funders
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/BBSRC.png){: style="width: 40%; float: center; margin: 10px"}
