@@ -78,8 +78,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 ## Students
-
-<a id="students"> #tag here to link from home page
+<!-- #tag below to link from home page -->
+<a id="students"> 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
