@@ -7,6 +7,15 @@
     display: 10.3389/frabi.2023.1209552
   highlight: 1
 
+- title: "An open-source digital contact tracing system tailored to haulage"
+  image: theags.jpg
+  description: Paper descibing THEA-GS, an open-source digital contact tracing system for the Global South tailored to haulage
+  authors: A Muwonge, BA Wee, I Mugerwa, E Nabunya, CM Mpyangu, BM de C Bronsvoort, ER Ssebaggala, A Kiayias, E Mwaka, M Joloba
+  link:
+    url: https://doi.org/10.3389/fdgth.2023.1199635
+    display: 10.3389/fdgth.2023.1199635
+  highlight: 1
+
 
 - title: "Developing digital contact tracing tailored to haulage in East Africa to support COVID-19 surveillance: a protocol"
   image: projectTHEA.png
@@ -15,7 +24,7 @@
   link:
     url: https://bmjopen.bmj.com/content/12/9/e058457
     display: 10.1136/bmjopen-2021-058457
-  highlight: 1
+  highlight: 0
 
 
 

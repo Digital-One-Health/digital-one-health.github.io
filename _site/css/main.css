@@ -2281,7 +2281,9 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 
 .carousel { position: relative; }
 
-.carousel-inner { position: relative; overflow: hidden; width: 100%; }
+.fixed-carousel { height: 360px; /* or whatever fixed height you prefer */ overflow: hidden; /* this ensures anything outside of the defined height is hidden */ }
+
+.carousel-inner { position: relative; overflow: hidden; width: 100%; height: auto; object-fit: cover; }
 
 .carousel-inner > .item { display: none; position: relative; -webkit-transition: 0.6s ease-in-out left; -o-transition: 0.6s ease-in-out left; transition: 0.6s ease-in-out left; }
 

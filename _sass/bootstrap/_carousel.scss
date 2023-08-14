@@ -8,10 +8,17 @@
   position: relative;
 }
 
+.fixed-carousel {
+  height: 360px; /* or whatever fixed height you prefer */
+  overflow: hidden; /* this ensures anything outside of the defined height is hidden */
+}
+
 .carousel-inner {
   position: relative;
   overflow: hidden;
   width: 100%;
+  height: auto;
+  object-fit: cover;
 
   > .item {
     display: none;
