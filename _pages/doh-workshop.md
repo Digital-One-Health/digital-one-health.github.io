@@ -31,31 +31,29 @@ This workshop will introduce participants to [Topic Name].
 
 ## Schedule
 
-<div class="col-md-12">
+<div class="col-md-11">
 <h3>Day 1</h3>
-<table class="table table-striped table-even">
+<table class="table table-striped">
     <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
     <tr> <td>11:00</td>  <td>Welcome and overview</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>11:30</td>  <td>CPHL presentation</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>12:00</td>  <td>NADDEC presentation</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>12:30</td>  <td>MWE presentation</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>13:00</td>  <td>Lunch</td> <td>Everyone</td></tr>
+    <tr> <td>11:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows</td> <td>Ibrahim Mugerwa, Joel Bazira, Franklin</td></tr>
+    <tr> <td>13:00</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
     <tr> <td>14:00</td>  <td>Digital One Health showcase (The Roslin Institute)</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>15:15</td>  <td>Afternoon break</td> <td>Everyone</td></tr>
+    <tr> <td>15:15</td>  <td><i>Afternoon break</i></td> <td>Everyone</td></tr>
     <tr> <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td> <td>Emmanuel Ssebagala</td></tr>
     <tr> <td>16:30</td>  <td>African Pathogen Data sharing and archive</td> <td>Gerald Mboowa</td></tr>
     <tr> <td>16:00</td>  <td>Forum</td> <td>Everyone</td></tr>
     <tr> <td>17:30</td>  <td>END</td> <td>Everyone</td></tr>
 </table>
 
-<div class="col-md-12">
 <h3>Day 2</h3>
-<table class="table table-striped table-even">
+<table class="table table-striped">
+    <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
     <tr> <td>09:00</td>  <td>Future planning</td> <td>Everyone</td></tr>
-    <tr> <td>10:30</td>  <td>Morning break</td> <td>Everyone</td></tr>
-    <tr> <td>11:00</td>  <td>Workshop recap with HoDs</td> <td>Everyone</td></tr>
+    <tr> <td>10:30</td>  <td><i>Morning break</i></td> <td>Everyone</td></tr>
+    <tr> <td>11:00</td>  <td>Workshop recap with Representatives of CPHL, NADDEC and MWE</td> <td>Everyone</td></tr>
     <tr> <td>12:15</td>  <td>Summary and Wrap-up</td> <td>Everyone</td></tr>
-    <tr> <td>13:00</td>  <td>Lunch</td> <td>Everyone</td></tr>
+    <tr> <td>13:00</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
     <tr> <td>14:00</td>  <td>END</td> <td>Everyone</td></tr>
 </table>
 </div>
@@ -64,7 +62,6 @@ This workshop will introduce participants to [Topic Name].
 <br>
 <br>
 <br>
----
 
 ## Organisers
 

@@ -945,13 +945,13 @@ caption { padding-top: 8px; padding-bottom: 8px; color: #999999; text-align: lef
 
 th { text-align: left; }
 
-.table-even { width: 100%; /* ensure the table takes up the full width of its container */ }
+.table { width: 100%; /* ensure the table takes up the full width of its container */ }
 
-.table-even td:nth-child(1), .table-even th:nth-child(1) { width: 20%; /* first column */ text-align: left; }
+.table td:nth-child(1), .table th:nth-child(1) { width: 20%; /* first column */ text-align: left; }
 
-.table-even td:nth-child(2), .table-even th:nth-child(2) { width: 50%; /* second column */ text-align: left; }
+.table td:nth-child(2), .table th:nth-child(2) { width: 50%; /* second column */ text-align: left; }
 
-.table-even td:nth-child(3), .table-even th:nth-child(3) { width: 30%; /* third column */ text-align: left; }
+.table td:nth-child(3), .table th:nth-child(3) { width: 30%; /* third column */ text-align: left; }
 
 .table { width: 100%; max-width: 100%; margin-bottom: 22px; }
 
