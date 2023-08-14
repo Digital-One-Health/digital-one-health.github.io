@@ -9,7 +9,7 @@
 }
 
 .fixed-carousel {
-  height: 360px; /* or whatever fixed height you prefer */
+  height: auto; /* or whatever fixed height you prefer */
   overflow: hidden; /* this ensures anything outside of the defined height is hidden */
 }
 
@@ -92,6 +92,13 @@
     left: 100%;
   }
 
+}
+
+
+@media (min-width: 768px) {
+  .carousel-inner {
+      height: 360px; /* or whatever fixed height you desire */
+  }
 }
 
 // Left/right controls for nav

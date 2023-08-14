@@ -2281,7 +2281,7 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 
 .carousel { position: relative; }
 
-.fixed-carousel { height: 360px; /* or whatever fixed height you prefer */ overflow: hidden; /* this ensures anything outside of the defined height is hidden */ }
+.fixed-carousel { height: auto; /* or whatever fixed height you prefer */ overflow: hidden; /* this ensures anything outside of the defined height is hidden */ }
 
 .carousel-inner { position: relative; overflow: hidden; width: 100%; height: auto; object-fit: cover; }
 
@@ -2306,6 +2306,8 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 .carousel-inner > .active.left { left: -100%; }
 
 .carousel-inner > .active.right { left: 100%; }
+
+@media (min-width: 768px) { .carousel-inner { height: 360px; /* or whatever fixed height you desire */ } }
 
 .carousel-control { position: absolute; top: 0; left: 0; bottom: 0; width: 15%; opacity: 0.7; filter: alpha(opacity=70); font-size: 20px; color: #fff; text-align: center; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); background-color: rgba(0, 0, 0, 0); }
 
