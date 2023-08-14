@@ -18,18 +18,11 @@ permalink: /doh-workshop.html
 
 ## Overview
 
-This workshop will introduce participants to [Topic Name]. 
-
-
-### Prerequisites
-
-* A working laptop with [software specifications or requirements]
-* Basic understanding of [any prerequisite knowledge]
-* [Any other prerequisite]
+This workshop will allow AMR stakeholders in Uganda to engage substantive discussions and agree on the requirements and conditions of data that could be shared responsibly and effectively for One Health outcomes. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
 
 ---
 
-## Schedule
+## Programme
 
 <div class="col-md-11">
 <h3>Day 1</h3>
@@ -63,10 +56,44 @@ This workshop will introduce participants to [Topic Name].
 <br>
 <br>
 
-## Organisers
+### Organisers
 
 * **Dr. Adrian Muwonge :** Chancellor's Fellow at The Roslin Institute, University of Edinburgh.
-* **Dr. Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh. Specialist in bacterial genomics and bioinformatics.
+* **Dr. Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
+* **Dr. Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh.
+
+### Participants
+
+#### Animal health
+
+* **Ibrahim Mugerwa :** CPHL, Uganda.
+* **Joel Bazira :** CPHL, Uganda.
+* **Aloysious Ssemaganda :** CPHL, Uganda.
+* **Ritah Namusoosa :** CPHL, Uganda.
+
+#### Environmental health
+
+* **Stella Atim :** NADDEC, Uganda.
+* **Michael Omodo :** NADDEC, Uganda.
+* **Merab Acham (NI) :** NADDEC, Uganda.
+* **Franklin Mayanja :** NADDEC, Uganda.
+
+#### Human health
+
+* **Betty Mbolanyi  :** MWE, Uganda.
+* **George Olum :** MWE, Uganda.
+* **Judith Namumbya :** MWE, Uganda.
+* **Samuel Otai :** MWE, Uganda.
+
+#### One Health:
+
+* **Tim Lee :** University of Edinburgh, UK
+* **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
+* **Erisa Mwaka :** Uganda
+* **David Kyaddondo :** Uganda
+* **Godfrey Katumba :** Uganda
+* **David Kateete :** Uganda
+* **Michael Mulumba :** Uganda
 
 ---
 
