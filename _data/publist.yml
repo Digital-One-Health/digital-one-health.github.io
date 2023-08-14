@@ -1,3 +1,13 @@
+- title: "A review of the predictors of antimicrobial use and resistance in European food animal production"
+  image: pigproduction.png
+  description: Paper reviewing predictors of AMU and AMR in European livestock
+  authors: CJ Redman-White, D Moran, AR Peters, A Muwonge
+  link:
+    url: https://doi.org/10.3389/frabi.2023.1209552
+    display: 10.3389/frabi.2023.1209552
+  highlight: 1
+
+
 - title: "Developing digital contact tracing tailored to haulage in East Africa to support COVID-19 surveillance: a protocol"
   image: projectTHEA.png
   description: Paper descibing THEA-C19
@@ -6,3 +16,6 @@
     url: https://bmjopen.bmj.com/content/12/9/e058457
     display: 10.1136/bmjopen-2021-058457
   highlight: 1
+
+
+
