@@ -9,46 +9,77 @@ permalink: /doh-workshop.html
 
 <br>
 <br>
+# Digital One Health Workshop
+
+**Date:** 13-14 September 2023  
+**Location:** Admas Grand Hotel, Entebbe, Uganda
+
+---
+
+## Overview
+
+This workshop will introduce participants to [Topic Name]. 
 
 
-# 2-Day Workshop Program
+### Prerequisites
+
+* A working laptop with [software specifications or requirements]
+* Basic understanding of [any prerequisite knowledge]
+* [Any other prerequisite]
+
+---
+
+## Schedule
+
+<div class="col-md-6">
+<h3>Day 1</h3>
+<table class="table table-striped">
+    <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
+    <tr> <td>09:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
+    <tr> <td>10:30</td>  <td>Morning break</td> </tr>
+    <tr> <td>11:00</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
+    <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+    <tr> <td>13:00</td>  <td>Building Programs with Python</td> </tr>
+    <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
+    <tr> <td>15:00</td>  <td>Building Programs with Python (Continued)</td> </tr>
+    <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+    <tr> <td>16:30</td>  <td>END</td> </tr>
+</table>
+</div>
+<div class="col-md-6">
+<h3>Day 2</h3>
+<table class="table table-striped">
+    <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
+    <tr> <td>10:30</td>  <td>Morning break</td> </tr>
+    <tr> <td>11:00</td>  <td>Version Control with Git (Continued)</td> </tr>
+    <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+    <tr> <td>13:00</td>  <td>Managing Data with SQL</td> </tr>
+    <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
+    <tr> <td>15:00</td>  <td>Managing Data with SQL (Continued)</td> </tr>
+    <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+    <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
+    <tr> <td>16:40</td>  <td>END</td> </tr>
+</table>
+</div>
+---
+
+## Organisers
+
+* **Dr. Adrian Muwonge :** Chancellor's Fellow at The Roslin Institute, University of Edinburgh.
+* **Dr. Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh. Specialist in bacterial genomics and bioinformatics.
+
+---
+
+## Registration
+
+Please register for the workshop using [this link](#). For any inquiries, contact [Adrian Muwonge](adrian.muwonge@roslin.ed.ac.uk).
+
+---
+
+## Sponsors
+
+We'd like to thank the Royal Society and the Fleming Fund making this event possible.
+
+---
 
 
-## Day 1
-
-| Time           | Topic                                  | Description                                                                           |
-|----------------|----------------------------------------|---------------------------------------------------------------------------------------|
-| 09:00 - 09:30  | **Registration & Welcome Coffee**      | Participants register and grab a morning coffee.                                      |
-| 09:30 - 10:00  | **Opening Remarks**                    | Introduction to the workshop and its objectives.                                      |
-| 10:00 - 11:00  | **Session 1:** Introduction to [Topic] | Overview of the workshop's main subject.                                              |
-| 11:00 - 11:15  | **Break**                              | -                                                                                     |
-| 11:15 - 12:30  | **Session 2:** [Topic Detail]          | A deeper dive into a specific aspect of the main topic.                               |
-| 12:30 - 13:30  | **Lunch Break**                        | -                                                                                     |
-| 13:30 - 14:45  | **Session 3:** Hands-on Exercise       | Participants practice what they've learned in a hands-on environment.                 |
-| 14:45 - 15:00  | **Break**                              | -                                                                                     |
-| 15:00 - 16:15  | **Session 4:** Group Discussions       | Participants discuss what they've learned and share insights.                         |
-| 16:15 - 17:00  | **Wrap-up & Reflections**              | Recap of the day and Q&A session.                                                     |
-
-## Day 2
-
-| Time           | Topic                                  | Description                                                                           |
-|----------------|----------------------------------------|---------------------------------------------------------------------------------------|
-| 09:00 - 09:30  | **Morning Coffee**                     | Participants gather and network over coffee.                                          |
-| 09:30 - 10:45  | **Session 5:** Advanced [Topic]        | Building on Day 1, exploring more advanced aspects of the main topic.                 |
-| 10:45 - 11:00  | **Break**                              | -                                                                                     |
-| 11:00 - 12:15  | **Session 6:** Real-world Applications | Discussing how the topic is applied in real-world scenarios.                          |
-| 12:15 - 13:15  | **Lunch Break**                        | -                                                                                     |
-| 13:15 - 14:30  | **Session 7:** Hands-on Exercise II    | A continuation of the hands-on exercise, focusing on more advanced techniques.        |
-| 14:30 - 14:45  | **Break**                              | -                                                                                     |
-| 14:45 - 16:00  | **Session 8:** Group Project           | Teams work on a mini project related to the workshop topic.                           |
-| 16:00 - 17:00  | **Closing Remarks & Certificates**     | Final thoughts and distribution of workshop completion certificates.                  |
-
-
-<br>
-<br>
-
-
-| Syntax | Description |
-| ----------- | ------------------------- |
-| Header | Title |
-| Paragraph | Text |
