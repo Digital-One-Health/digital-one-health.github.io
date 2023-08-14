@@ -5,6 +5,7 @@
 
 table {
   background-color: $table-bg;
+  text-align: left;
 }
 caption {
   padding-top: $table-cell-padding;
@@ -13,6 +14,27 @@ caption {
   text-align: left;
 }
 th {
+  text-align: left;
+}
+
+//added for even table data cells 2023-08-14
+
+.table-even {
+  width: 100%; /* ensure the table takes up the full width of its container */
+}
+
+.table-even td:nth-child(1), .table-even th:nth-child(1) {
+  width: 20%;  /* first column */
+  text-align: left;
+}
+
+.table-even td:nth-child(2), .table-even th:nth-child(2) {
+  width: 50%;  /* second column */
+  text-align: left;
+}
+
+.table-even td:nth-child(3), .table-even th:nth-child(3) {
+  width: 30%;  /* third column */
   text-align: left;
 }
 
