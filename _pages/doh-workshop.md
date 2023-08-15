@@ -30,7 +30,7 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
 
 ## Programme
 
-<div class="col-md-11">
+<div class="col-md-10">
 <h3>Day 1</h3>
 <table class="table table-striped">
     <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
@@ -56,9 +56,57 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
     <tr> <td>14:00</td>  <td>END</td> <td>Everyone</td></tr>
 </table>
 </div>
+<br>
+<div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
+
+## Slide Show
 
 <br>
+<div id="carousel" class="carousel slide fixed-carousel col-md-8" data-ride="carousel" data-interval="4000" data-pause="hover">
+
+<!-- Menu -->
+<ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+    <li data-target="#carousel" data-slide-to="3"></li>
+        <!--  <li data-target="#carousel" data-slide-to="4"></li>
+    <li data-target="#carousel" data-slide-to="5"></li>
+    <li data-target="#carousel" data-slide-to="6"></li> -->
+</ol>
+
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHN.png" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FlemingUganda2022jumping.jpeg" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/projectTHEA.png" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ArthursSeat.jpeg" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pigproduction.png" alt="Slide 5" />
+    </div>
+</div>
+
+
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 <br>
+<div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
 <br>
 <br>
 
