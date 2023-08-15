@@ -148,7 +148,7 @@ Please register for the workshop using [this link](https://forms.office.com/e/bR
 
 ## Sponsors
 
-We'd like to thank the Royal Society and the Fleming Fund making this event possible.
+We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Fleming Fund](https://www.flemingfund.org/) making this event possible.
 
 ---
 
