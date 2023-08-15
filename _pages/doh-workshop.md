@@ -18,11 +18,11 @@ permalink: /doh-workshop.html
 
 ## Overview
 
-This workshop will allow AMR stakeholders in Uganda to engage substantive discussions towards integrated and interoperable AMR surveillance workflows for towards One Health decision-making. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
+This workshop will allow AMR stakeholders in Uganda to engage substantive discussions towards integrated and interoperable AMR surveillance workflows for One Health decision-making. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
 
 <br>
 
-## Slide Show
+## Photo gallery
 <div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
 <!-- Menu -->
