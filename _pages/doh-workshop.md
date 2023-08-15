@@ -62,7 +62,7 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
 ## Slide Show
 
 <br>
-<div id="carousel" class="carousel slide fixed-carousel col-md-8" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
 <!-- Menu -->
 <ol class="carousel-indicators">
@@ -70,8 +70,8 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
     <li data-target="#carousel" data-slide-to="1"></li>
     <li data-target="#carousel" data-slide-to="2"></li>
     <li data-target="#carousel" data-slide-to="3"></li>
-        <!--  <li data-target="#carousel" data-slide-to="4"></li>
-    <li data-target="#carousel" data-slide-to="5"></li>
+    <li data-target="#carousel" data-slide-to="4"></li>
+   <!-- <li data-target="#carousel" data-slide-to="5"></li>
     <li data-target="#carousel" data-slide-to="6"></li> -->
 </ol>
 
@@ -112,9 +112,9 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
 
 ### Organisers
 
-* **Dr. Adrian Muwonge :** Chancellor's Fellow at The Roslin Institute, University of Edinburgh.
-* **Dr. Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
-* **Dr. Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh.
+* **Adrian Muwonge :** Chancellor's Fellow at The Roslin Institute, University of Edinburgh.
+* **Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
+* **Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh.
 
 ### Participants
 
