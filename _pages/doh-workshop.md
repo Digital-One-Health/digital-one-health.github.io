@@ -20,6 +20,44 @@ permalink: /doh-workshop.html
 
 This workshop will allow AMR stakeholders in Uganda to engage substantive discussions towards integrated and interoperable AMR surveillance workflows for towards One Health decision-making. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
 
+<br>
+
+## Slide Show
+<div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
+
+<!-- Menu -->
+<ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+   <!--  <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+    <li data-target="#carousel" data-slide-to="3"></li>
+    <li data-target="#carousel" data-slide-to="4"></li>
+   <li data-target="#carousel" data-slide-to="5"></li>
+    <li data-target="#carousel" data-slide-to="6"></li> -->
+</ol>
+
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AdmasHotelEntebbe.jpeg" alt="Slide 1" />
+    </div>
+</div>
+
+
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<br>
+<div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
+<br>
+
 ## Links
 
 [Directions to the venue](https://goo.gl/maps/8FSnLcaNmjTi1jCJA)
@@ -59,43 +97,6 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
 <br>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
 
-## Slide Show
-
-<br>
-<div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
-
-<!-- Menu -->
-<ol class="carousel-indicators">
-    <li data-target="#carousel" data-slide-to="0" class="active"></li>
-   <!--  <li data-target="#carousel" data-slide-to="1"></li>
-    <li data-target="#carousel" data-slide-to="2"></li>
-    <li data-target="#carousel" data-slide-to="3"></li>
-    <li data-target="#carousel" data-slide-to="4"></li>
-   <li data-target="#carousel" data-slide-to="5"></li>
-    <li data-target="#carousel" data-slide-to="6"></li> -->
-</ol>
-
-<!-- Items -->
-<div class="carousel-inner" markdown="0">
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AdmasHotelEntebbe.jpeg" alt="Slide 1" />
-    </div>
-</div>
-
-
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-<br>
-<div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
-<br>
 <br>
 
 ### Organisers
