@@ -18,7 +18,13 @@ permalink: /doh-workshop.html
 
 ## Overview
 
-This workshop will allow AMR stakeholders in Uganda to engage substantive discussions and agree on the requirements and conditions of data that could be shared responsibly and effectively for One Health outcomes. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
+This workshop will allow AMR stakeholders in Uganda to engage substantive discussions towards integrated and interoperable AMR surveillance workflows for towards One Health decision-making. The conclusions of these discussions will be the foundation of a recommendations paper for a One Health data-sharing framework.
+
+## Links
+
+[Directions to the venue](https://goo.gl/maps/8FSnLcaNmjTi1jCJA)
+
+[Collaborative Google Doc](https://docs.google.com/document/d/1ViO6P-YCjokTZoEsuEQookFBedAwUvraO8WYfKdZamo/edit?usp=sharing)
 
 ---
 
@@ -99,7 +105,7 @@ This workshop will allow AMR stakeholders in Uganda to engage substantive discus
 
 ## Registration
 
-Please register for the workshop using [this link](#). For any inquiries, contact [Adrian Muwonge](adrian.muwonge@roslin.ed.ac.uk).
+Please register for the workshop using [this link](https://forms.office.com/e/bRCAEwFQ7t). For any inquiries, please contact [Adrian Muwonge](adrian.muwonge@roslin.ed.ac.uk).
 
 ---
 
