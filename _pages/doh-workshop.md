@@ -37,7 +37,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AdmasHotelEntebbe.jpeg" alt="Slide 1" />
         <!-- Caption -->
         <div class="carousel-caption">
-            <h3>Admas Hotel, Entebbe</h3>
+            <h3></h3>
             <p>Admas Grand Hotel, Entebbe</p>
         </div>
     </div>
