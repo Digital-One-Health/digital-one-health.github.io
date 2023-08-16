@@ -52,9 +52,6 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-<br>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
 <br>
 
