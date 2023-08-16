@@ -110,7 +110,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 #### Animal health
 * **Stella Atim :** NADDEC, Uganda.
 * **Michael Omodo :** NADDEC, Uganda.
-* **Merab Acham (NI) :** NADDEC, Uganda.
+* **TBC :** NADDEC, Uganda.
 * **Franklin Mayanja :** NADDEC, Uganda.
 
 #### Environmental health
@@ -124,7 +124,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 * **Ibrahim Mugerwa :** CPHL, Uganda.
 * **Joel Bazira :** MUST (Mbarara University of Science and Technology)
-* **Aloysious Ssemaganda :** CPHL, Uganda.
+* **Ivan Sserwadda :** CPHL, Uganda.
 * **Ritah Namusoosa :** CPHL, Uganda.
 
 #### One Health:
@@ -135,7 +135,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **David Kyaddondo :** Uganda
 * **Godfrey Katumba :** Uganda
 * **David Kateete :** Uganda
-* **Michael Mulumba :** Uganda
+* **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 
 ---
 
@@ -145,10 +145,37 @@ Please register for the workshop using [this link](https://forms.office.com/e/bR
 
 ---
 
-## Sponsors
+## Partners
 
-We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Fleming Fund](https://www.flemingfund.org/) making this event possible.
+We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Fleming Fund](https://www.flemingfund.org/) for making this event possible.
+
+
+<div class="container">
+
+<div class="row">
+  <div class="col-lg-2 col-md-3 col-4 mt-5"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RoyalSoc.png" class="img-fluid" alt="Royal Society" style="max-width: 7em">
+  </div> <!-- Image 1 -->
+  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="max-width:7em">
+  </div> <!-- Image 2 -->
+  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-makerere.jpg" class="img-fluid" alt="Makrere University" style="max-width:8em">
+  </div> <!-- Image 3 -->
+</div>
+
+<div class="row">
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/maaif2.jpeg" class="img-fluid" alt="MAAIF" style="height: 90px">
+  </div> <!-- Image 3 -->
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mwe.png" class="img-fluid" alt="MWE" style="max-width:100% height: auto">
+  </div> <!-- Image 3 -->
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cphl.png" class="img-fluid" alt="CPHL" style="height: 85px">
+  </div> <!-- Image 1 -->
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/roslin_logo.jpg" class="img-fluid" alt="Roslin" style="height: 85px">
+  </div> <!-- Image 1 -->
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bodastage.png" class="img-fluid" alt="Bodastage" style="height: 70px">
+  </div> <!-- Image 1 -->
+</div>
+
+
+</div>
+
 
 ---
-
-
