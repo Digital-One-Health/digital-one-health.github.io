@@ -116,6 +116,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **George Olum :** MWE, Uganda.
 * **Judith Namumbya :** MWE, Uganda.
 * **Samuel Otai :** MWE, Uganda.
+* **Godfrey Katumba :** MWE, Uganda
 
 #### Human health
 
@@ -130,7 +131,6 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
 * **Erisa Mwaka :** Makerere University, Uganda
 * **David Kyaddondo :** Makerere University, Uganda
-* **Godfrey Katumba :** Uganda
 * **David Kateete :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 
