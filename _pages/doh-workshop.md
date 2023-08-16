@@ -138,7 +138,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 ## Registration
 
-Please register for the workshop using [this link](https://forms.office.com/e/bRCAEwFQ7t). For any inquiries, please contact [Adrian Muwonge](adrian.muwonge@roslin.ed.ac.uk).
+Please register for the workshop using [this link](https://forms.office.com/e/bRCAEwFQ7t). For any inquiries, please contact [Adrian Muwonge](mailto:adrian.muwonge@roslin.ed.ac.uk).
 
 ---
 
@@ -177,6 +177,10 @@ We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Flemi
   </div> <!-- Image 1 -->
 </div>
 
+<div class="row">
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/flemingfund.jpeg" class="img-fluid" alt="FlemingFund" style="margin-top: -20px; max-width: 30%">
+  </div> <!-- Image 3 -->
+</div>
 
 </div>
 
