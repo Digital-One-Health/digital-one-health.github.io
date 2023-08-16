@@ -23,26 +23,25 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 <br>
 
 ## Photo gallery
+
 <div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
 <!-- Menu -->
 <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
-   <!--  <li data-target="#carousel" data-slide-to="1"></li>
-    <li data-target="#carousel" data-slide-to="2"></li>
-    <li data-target="#carousel" data-slide-to="3"></li>
-    <li data-target="#carousel" data-slide-to="4"></li>
-   <li data-target="#carousel" data-slide-to="5"></li>
-    <li data-target="#carousel" data-slide-to="6"></li> -->
 </ol>
 
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AdmasHotelEntebbe.jpeg" alt="Slide 1" />
+        <!-- Caption -->
+        <div class="carousel-caption">
+            <h3>Admas Hotel, Entebbe</h3>
+            <p>Admas Grand Hotel, Entebbe</p>
+        </div>
     </div>
 </div>
-
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -53,6 +52,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
     <span class="sr-only">Next</span>
   </a>
 </div>
+
 
 <br>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
@@ -108,25 +108,24 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 ### Workshop attendees
 
 #### Animal health
-
-* **Ibrahim Mugerwa :** CPHL, Uganda.
-* **Joel Bazira :** CPHL, Uganda.
-* **Aloysious Ssemaganda :** CPHL, Uganda.
-* **Ritah Namusoosa :** CPHL, Uganda.
-
-#### Environmental health
-
 * **Stella Atim :** NADDEC, Uganda.
 * **Michael Omodo :** NADDEC, Uganda.
 * **Merab Acham (NI) :** NADDEC, Uganda.
 * **Franklin Mayanja :** NADDEC, Uganda.
 
-#### Human health
+#### Environmental health
 
 * **Betty Mbolanyi  :** MWE, Uganda.
 * **George Olum :** MWE, Uganda.
 * **Judith Namumbya :** MWE, Uganda.
 * **Samuel Otai :** MWE, Uganda.
+
+#### Human health
+
+* **Ibrahim Mugerwa :** CPHL, Uganda.
+* **Joel Bazira :** MUST (Mbarara University of Science and Technology)
+* **Aloysious Ssemaganda :** CPHL, Uganda.
+* **Ritah Namusoosa :** CPHL, Uganda.
 
 #### One Health:
 
