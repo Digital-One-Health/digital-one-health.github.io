@@ -128,10 +128,10 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 * **Tim Lee :** University of Edinburgh, UK
 * **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
-* **Erisa Mwaka :** Uganda
-* **David Kyaddondo :** Uganda
+* **Erisa Mwaka :** Makerere University, Uganda
+* **David Kyaddondo :** Makerere University, Uganda
 * **Godfrey Katumba :** Uganda
-* **David Kateete :** Uganda
+* **David Kateete :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 
 ---
