@@ -153,7 +153,7 @@ We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Flemi
 <div class="container">
 
 <div class="row">
-  <div class="col-lg-2 col-md-3 col-4 mt-5"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RoyalSoc.png" class="img-fluid" alt="Royal Society" style="max-width: 7em">
+  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RoyalSoc.png" class="img-fluid" alt="Royal Society" style="margin-top: 50px; max-width: 100px">
   </div> <!-- Image 1 -->
   <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="max-width:7em">
   </div> <!-- Image 2 -->
@@ -162,15 +162,21 @@ We'd like to thank the [Royal Society](https://royalsociety.org/) and the [Flemi
 </div>
 
 <div class="row">
-  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/maaif2.jpeg" class="img-fluid" alt="MAAIF" style="height: 90px">
+  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/roslin_logo.jpg" class="img-fluid" alt="Roslin" style="height: 50px">
+  </div>
+  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/maaif2.jpeg" class="img-fluid" alt="MAAIF" style="margin-left: -10px; height: 80px">
   </div> <!-- Image 3 -->
-  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mwe.png" class="img-fluid" alt="MWE" style="max-width:100% height: auto">
+  <div class="col-lg-2 col-md-3 col-4 my-4 px-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-bodastage.svg" class="img-fluid" alt="bodastage" style="margin-left: 20px; margin-top: -20px; height: 120px">
   </div> <!-- Image 3 -->
-  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cphl.png" class="img-fluid" alt="CPHL" style="height: 85px">
-  </div> <!-- Image 1 -->
-  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/roslin_logo.jpg" class="img-fluid" alt="Roslin" style="height: 85px">
-  </div> <!-- Image 1 -->
-  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bodastage.png" class="img-fluid" alt="Bodastage" style="height: 70px">
+</div>
+
+<div class="row">
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mwe.png" class="img-fluid" alt="MWE" style="max-width: 30%">
+  </div> <!-- Image 3 -->
+</div>
+
+<div class="row">
+  <div class="col-12"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cphl.png" class="img-fluid" alt="CPHL" style="margin-left: 10px; height: 60px">
   </div> <!-- Image 1 -->
 </div>
 
