@@ -70,7 +70,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 <table class="table table-striped">
     <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
     <tr> <td>11:00</td>  <td>Welcome and overview</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>11:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows<br>(5 minutes each, followed by discussions)</td> <td>Ibrahim Mugerwa, Joel Bazira, Michael Omodo</td></tr>
+    <tr> <td>11:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows<br>(5 minutes each, followed by discussions)</td> <td>Ibrahim Mugerwa, Joel Bazira, Esther Nabatta, Michael Omodo</td></tr>
     <tr> <td>13:00</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
     <tr> <td>14:00</td>  <td>Digital One Health showcase (The Roslin Institute)</td> <td>Adrian Muwonge</td></tr>
     <tr> <td>15:15</td>  <td><i>Afternoon break</i></td> <td>Everyone</td></tr>
@@ -129,11 +129,11 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 #### One Health:
 
 * **David Kateete :** Makerere University / MakBRC , Uganda
-* **Tim Lee :** University of Edinburgh, UK
 * **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
 * **Erisa Mwaka :** Makerere University, Uganda
 * **David Kyaddondo :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
+* **Tim Lee :** University of Edinburgh, UK
 
 ---
 
