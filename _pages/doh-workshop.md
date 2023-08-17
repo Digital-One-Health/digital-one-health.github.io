@@ -98,9 +98,9 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 ### Organisers
 
-* **Adrian Muwonge :** Chancellor's Fellow at The Roslin Institute, University of Edinburgh.
+* **Adrian Muwonge :** The Roslin Institute, University of Edinburgh, UK
 * **Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
-* **Bryan Wee:** Core Scientist at The Roslin Institute, University of Edinburgh.
+* **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
 
 ### Workshop attendees
 
