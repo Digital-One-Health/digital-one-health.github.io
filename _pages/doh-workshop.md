@@ -105,33 +105,34 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 ### Workshop attendees
 
 #### Animal health
-* **Stella Atim :** NADDEC, Uganda.
-* **Michael Omodo :** NADDEC, Uganda.
-* **TBC :** NADDEC, Uganda.
-* **Franklin Mayanja :** NADDEC, Uganda.
+
+* **Stella Atim :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
+* **Michael Omodo :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
+* **Esther Nabattta :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
+* **Franklin Mayanja :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 
 #### Environmental health
 
-* **Betty Mbolanyi  :** MWE, Uganda.
-* **George Olum :** MWE, Uganda.
-* **Judith Namumbya :** MWE, Uganda.
-* **Samuel Otai :** MWE, Uganda.
-* **Godfrey Katumba :** MWE, Uganda
+* **Betty Mbolanyi  :** Ministry of Water and Environment (MWE), Uganda.
+* **George Olum :** Ministry of Water and Environment (MWE), Uganda.
+* **Judith Namumbya :** Ministry of Water and Environment (MWE), Uganda.
+* **Samuel Otai :** Ministry of Water and Environment (MWE), Uganda.
+* **Godfrey Katumba :** Ministry of Water and Environment (MWE), Uganda
 
 #### Human health
 
-* **Ibrahim Mugerwa :** CPHL, Uganda.
+* **Ibrahim Mugerwa :** Central Public Health Laboratories (CPHL), Uganda.
 * **Joel Bazira :** MUST (Mbarara University of Science and Technology)
-* **Ivan Sserwadda :** CPHL, Uganda.
-* **Ritah Namusoosa :** CPHL, Uganda.
+* **Ritah Namusoosa :** Central Public Health Laboratories (CPHL), Uganda.
+* **Ivan Sserwadda :** Central Public Health Laboratories (CPHL), Uganda.
 
 #### One Health:
 
+* **David Kateete :** Makerere University / MakBRC , Uganda
 * **Tim Lee :** University of Edinburgh, UK
 * **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
 * **Erisa Mwaka :** Makerere University, Uganda
 * **David Kyaddondo :** Makerere University, Uganda
-* **David Kateete :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 
 ---
