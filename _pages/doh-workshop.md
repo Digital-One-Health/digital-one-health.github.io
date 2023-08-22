@@ -133,6 +133,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **Erisa Mwaka :** Makerere University, Uganda
 * **David Kyaddondo :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
+* **Catherine Abenaitwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 * **Tim Lee :** University of Edinburgh, UK
 
 ---
