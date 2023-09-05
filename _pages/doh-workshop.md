@@ -73,7 +73,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
     <tr> <td>11:45</td>  <td>Global One Health harmonization</td> <td>Bryan Wee</td></tr>
     <tr> <td>12:30</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
     <tr> <td>13:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows<br>(5 minutes each, followed by discussions)</td> <td>Ibrahim Mugerwa, Joel Bazira, Esther Nabatta, Michael Omodo</td></tr>
-    <tr> <td>14:00</td>  <td><i>Metadata Hackathon</i></td> <td>Everyone</td></tr>
+    <tr> <td>14:00</td>  <td>Metadata Hackathon</td> <td>Everyone</td></tr>
     <tr> <td>15:15</td>  <td><i>Afternoon break</i></td> <td>Everyone</td></tr>
     <tr> <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td> <td>Emmanuel Ssebagala</td></tr>
     <tr> <td>16:30</td>  <td>African Pathogen Data sharing and archive</td> <td>Gerald Mboowa</td></tr>
