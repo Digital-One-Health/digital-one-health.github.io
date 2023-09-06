@@ -69,7 +69,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 <h3>Day 1</h3>
 <table class="table table-striped">
     <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
-    <tr> <td>11:00</td>  <td>Welcome and introductio to Digital One Health</td> <td>Adrian Muwonge</td></tr>
+    <tr> <td>11:00</td>  <td>Welcome and introduction to Digital One Health</td> <td>Adrian Muwonge</td></tr>
     <tr> <td>11:45</td>  <td>Global One Health harmonization</td> <td>Bryan Wee</td></tr>
     <tr> <td>12:30</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
     <tr> <td>13:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows<br>(5 minutes each, followed by discussions)</td> <td>Ibrahim Mugerwa, Joel Bazira, Esther Nabatta, Michael Omodo, Judith Namumbya</td></tr>
