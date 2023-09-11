@@ -125,6 +125,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **Ibrahim Mugerwa :** Central Public Health Laboratories (CPHL), Uganda.
 * **Joel Bazira :** MUST (Mbarara University of Science and Technology)
 * **Ritah Namusoosa :** Central Public Health Laboratories (CPHL), Uganda.
+* **Alisen Ayitewala :** Central Public Health Laboratories (CPHL), Uganda.
 * **Ivan Sserwadda :** Central Public Health Laboratories (CPHL), Uganda.
 * **Aloysious	Ssemaganda :** Central Public Health Laboratories (CPHL), Uganda.
 
