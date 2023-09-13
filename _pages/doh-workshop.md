@@ -77,7 +77,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
     <tr> <td>15:15</td>  <td><i>Afternoon break</i></td> <td>Everyone</td></tr>
     <tr> <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td> <td>Emmanuel Ssebagala</td></tr>
     <tr> <td>16:30</td>  <td>African Pathogen Data sharing and archive</td> <td>Gerald Mboowa</td></tr>
-    <tr> <td>16:00</td>  <td>Forum</td> <td>Everyone</td></tr>
+    <tr> <td>17:00</td>  <td>Forum</td> <td>Everyone</td></tr>
     <tr> <td>17:30</td>  <td>END</td> <td>Everyone</td></tr>
 </table>
 
