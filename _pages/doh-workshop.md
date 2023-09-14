@@ -18,7 +18,7 @@ permalink: /doh-workshop.html
 
 ## Overview
 
-This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum in Uganda to engage in discussions towards an integrated and interoperable AMR surveillance workflows. These discussions will from the foundation of a recommendations paper to develop a data-sharing framework for One Health decision-making. 
+This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum in Uganda to engage in discussions towards an integrated and interoperable AMR surveillance workflows. These discussions will form the foundation of a recommendations paper to develop a data-sharing framework for One Health decision-making. 
 
 <br>
 
