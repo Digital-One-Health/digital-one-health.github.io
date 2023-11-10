@@ -1,3 +1,14 @@
+- title: "A Digital One Health framework to integrate data for public health decision-making"
+  image: trafficlight.png
+  description: Proposing a Digital One Health (DOH) framework for integrating data in public health decision-making.
+  authors: CJ Redman-White, K Loosli, V Qarkaxhija, TN Lee, G Mboowa, BA Wee, A Muwonge
+  link:
+    url: https://doi.org/10.1016/j.ijidoh.2023.100012
+    display: 10.1016/j.ijidoh.2023.100012
+  highlight: 1
+
+
+
 - title: "A review of the predictors of antimicrobial use and resistance in European food animal production"
   image: pigproduction.png
   description: Paper reviewing predictors of AMU and AMR in European livestock
