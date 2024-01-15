@@ -2,7 +2,7 @@
 - date: 15 Jan 2023
   headline: "**Testing Internal Link to Long Format News**
 
-  This is a short text that will take you to a lonnger article [here](pages/fullnews.md#link1)"
+  This is a short text that will take you to a lonnger article [here](/fullnews.html#link1)."
 
 
 
