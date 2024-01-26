@@ -9,10 +9,10 @@ permalink: /doh-ont-workshop.html
 
 <br>
 <br>
-# Digital One Health Workshop
+# Digital One Health Nanopore Workshop
 
-**Date:** 13-14 September 2023  
-**Location:** Admas Grand Hotel, Entebbe, Uganda
+**Date:** 26-27 February 2024  
+**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Kampala, Uganda
 
 ---
 
