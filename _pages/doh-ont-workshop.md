@@ -113,11 +113,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>Everyone</td></tr>
 
-<tr>  <td>09:30</td>  <td><i>Sequencing library prep</i></td>  <td>Everyone</td></tr>
+<tr>  <td>09:30</td>  <td><i>Sequencing library prep</i></td>  <td>Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>12:30</td>  <td>Lunch</td>  <td>Everyone</td></tr>
 
-<tr>  <td>13:30</td>  <td>Sequencing Run</td>  <td>Everyone</td></tr>
+<tr>  <td>13:30</td>  <td>Sequencing Run</td>  <td>Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>Everyone</td></tr>
 
