@@ -136,7 +136,6 @@ This workshop will develop expertise in the generation of whole genome sequences
 ### Organisers
 
 * **Adrian Muwonge :** The Roslin Institute, University of Edinburgh, UK
-* **Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
 * **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
 * **Vesa Qarkaxhija:** The Roslin Institute, University of Edinburgh, UK
 * **Frank Chilanga:** The Roslin Institute, University of Edinburgh, UK
