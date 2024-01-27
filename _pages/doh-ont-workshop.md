@@ -12,13 +12,13 @@ permalink: /doh-ont-workshop.html
 # Digital One Health Nanopore Workshop
 
 **Date:** 26-27 February 2024  
-**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Kampala, Uganda
+**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Entebbe, Uganda
 
 ---
 
 ## Overview
 
-This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum in Uganda to engage in discussions towards an integrated and interoperable AMR surveillance workflows. These discussions will form the foundation of a recommendations paper to develop a data-sharing framework for One Health decision-making. 
+This workshop will develop expertise in the generation of whole genome sequences using Oxford Nanopore technology. This is part of a series of inititiatives from the Digital One Health Laboratory that aims to bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum in Uganda.
 
 <br>
 
@@ -66,40 +66,67 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 ## Links
 
-[Directions to the venue](https://goo.gl/maps/8FSnLcaNmjTi1jCJA)
+[Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
 
-[Collaborative Google Doc](https://docs.google.com/document/d/1ViO6P-YCjokTZoEsuEQookFBedAwUvraO8WYfKdZamo/edit?usp=sharing)
+[Collaborative Google Doc]()
 
 ---
 
 ## Programme
 
-<div class="col-md-10">
+
+<div  class="col-md-10">
+
 <h3>Day 1</h3>
-<table class="table table-striped">
-    <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
-    <tr> <td>11:00</td>  <td>Welcome and introduction to Digital One Health</td> <td>Adrian Muwonge</td></tr>
-    <tr> <td>11:45</td>  <td>Global One Health harmonization</td> <td>Bryan Wee</td></tr>
-    <tr> <td>12:30</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
-    <tr> <td>13:30</td>  <td>CPHL, NADDEC and MWE AMR Surveillance Workflows<br>(5 minutes each, followed by discussions)</td> <td>Ritah Namusoosa, Joel Bazira, Esther Nabatta, Michael Omodo, Judith Namumbya</td></tr>
-    <tr> <td>14:00</td>  <td>Metadata Hackathon</td> <td>Everyone</td></tr>
-    <tr> <td>15:15</td>  <td><i>Afternoon break</i></td> <td>Everyone</td></tr>
-    <tr> <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td> <td>Emmanuel Ssebagala</td></tr>
-    <tr> <td>16:30</td>  <td>African Pathogen Data sharing and archive</td> <td>Gerald Mboowa</td></tr>
-    <tr> <td>17:00</td>  <td>Forum</td> <td>Everyone</td></tr>
-    <tr> <td>17:30</td>  <td>END</td> <td>Everyone</td></tr>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>Bryan Wee</td></tr>
+
+<tr>  <td>09:30</td>  <td>Pre-workshop briefing</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
+
+<tr>  <td>09:45</td>  <td><i>DNA Extraction Part 1</i></td>  <td>Everyone</td></tr>
+
+<tr>  <td>12:30</td>  <td>Lunch Break</td>  <td>Everyone</td></tr>
+
+<tr>  <td>13:15</td>  <td>DNA Extraction Part 2</td>  <td>Vesa Qarkaxhija</td></tr>
+
+<tr>  <td>14:30</td>  <td><i>Afternoon break</i></td>  <td>Everyone</td></tr>
+
+<tr>  <td>15:00</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
+
+<tr>  <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebagala</td></tr>
+
+<tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
+
 </table>
 
+  
+
 <h3>Day 2</h3>
-<table class="table table-striped">
-    <tr> <td><b>Time</b></td>  <td><b>Session</b></td> <td><b>Who</b></td></tr>
-    <tr> <td>09:00</td>  <td>Future planning</td> <td>Everyone</td></tr>
-    <tr> <td>10:30</td>  <td><i>Morning break</i></td> <td>Everyone</td></tr>
-    <tr> <td>11:00</td>  <td>Workshop recap with Representatives of CPHL, NADDEC and MWE</td> <td>Everyone</td></tr>
-    <tr> <td>12:15</td>  <td>Summary and Wrap-up</td> <td>Everyone</td></tr>
-    <tr> <td>13:00</td>  <td><i>Lunch</i></td> <td>Everyone</td></tr>
-    <tr> <td>14:00</td>  <td>END</td> <td>Everyone</td></tr>
+
+<table  class="table table-striped">
+
+<tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
+
+<tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>Everyone</td></tr>
+
+<tr>  <td>09:30</td>  <td><i>Sequencing library prep</i></td>  <td>Everyone</td></tr>
+
+<tr>  <td>12:30</td>  <td>Lunch</td>  <td>Everyone</td></tr>
+
+<tr>  <td>13:30</td>  <td>Sequencing Run</td>  <td>Everyone</td></tr>
+
+<tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>Everyone</td></tr>
+
+<tr>  <td>15:30</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
+
+<tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
+
 </table>
+
 </div>
 <br>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
@@ -111,22 +138,22 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 * **Adrian Muwonge :** The Roslin Institute, University of Edinburgh, UK
 * **Gerald Mboowa:** ACE, Makerere University Biomedical Research Centre, Uganda
 * **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
+* **Vesa Qarkaxhija:** The Roslin Institute, University of Edinburgh, UK
+* **Frank Chilanga:** The Roslin Institute, University of Edinburgh, UK
+
 
 ### Workshop attendees
 
 #### Animal health
 
-* **Stella Atim :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-* **Michael Omodo :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
+* **Arinaitwe Eugene :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
+* **Gladys Nakanjako Kiggundu :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 * **Esther Nabattta :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-* **Franklin Mayanja :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 
 #### Environmental health
 
-* **Betty Mbolanyi  :** Ministry of Water and Environment (MWE), Uganda.
 * **George Olum :** Ministry of Water and Environment (MWE), Uganda.
-* **Judith Namumbya :** Ministry of Water and Environment (MWE), Uganda.
-* **Samuel Otai :** Ministry of Water and Environment (MWE), Uganda.
+* **Ankunda Penrose :** Ministry of Water and Environment (MWE), Uganda.
 * **Godfrey Katumba :** Ministry of Water and Environment (MWE), Uganda
 
 #### Human health
@@ -152,7 +179,7 @@ This workshop will bring together [AMR](https://www.who.int/news-room/fact-sheet
 
 ## Registration
 
-Please register for the workshop using [this link](https://forms.office.com/e/bRCAEwFQ7t). For any inquiries, please contact [Adrian Muwonge](mailto:adrian.muwonge@roslin.ed.ac.uk).
+For any inquiries, please contact [Adrian Muwonge](mailto:adrian.muwonge@roslin.ed.ac.uk).
 
 ---
 
