@@ -97,7 +97,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>15:00</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
 
-<tr>  <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebagala</td></tr>
+<tr>  <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebaggala</td></tr>
 
 <tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
 
@@ -167,12 +167,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 #### One Health:
 
 * **David Kateete :** Makerere University / MakBRC , Uganda
-* **Emmanuel Ssebagala :** Bodastage Solutions, Uganda
+* **Emmanuel Ssebaggala :** Bodastage Solutions, Uganda
 * **Erisa Mwaka :** Makerere University, Uganda
 * **David Kyaddondo :** Makerere University, Uganda
 * **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
 * **Catherine Abenaitwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
-* **Tim Lee :** University of Edinburgh, UK
 
 ---
 
