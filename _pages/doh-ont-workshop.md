@@ -87,7 +87,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:30</td>  <td>Pre-workshop briefing</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
-<tr>  <td>09:45</td>  <td><i>DNA Extraction Part 1</i></td>  <td>Everyone</td></tr>
+<tr>  <td>09:45</td>  <td><i>DNA Extraction Part 1</i></td>  <td>Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>12:30</td>  <td>Lunch Break</td>  <td>Everyone</td></tr>
 
@@ -121,7 +121,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>Everyone</td></tr>
 
-<tr>  <td>15:30</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
+<tr>  <td>15:30</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
 
