@@ -157,21 +157,18 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 #### Human health
 
-* **Ibrahim Mugerwa :** Central Public Health Laboratories (CPHL), Uganda.
-* **Joel Bazira :** MUST (Mbarara University of Science and Technology)
-* **Ritah Namusoosa :** Central Public Health Laboratories (CPHL), Uganda.
-* **Alisen Ayitewala :** Central Public Health Laboratories (CPHL), Uganda.
-* **Ivan Sserwadda :** Central Public Health Laboratories (CPHL), Uganda.
-* **Aloysious	Ssemaganda :** Central Public Health Laboratories (CPHL), Uganda.
+* **Daniel Eurien :** Central Public Health Laboratories (CPHL), Uganda.
+* **Lydia Bulyaba :** Central Public Health Laboratories (CPHL), Uganda.
+* **Julius Sseruyange :** Central Public Health Laboratories (CPHL), Uganda.
+* **Godwin Tusabe :** Central Public Health Laboratories (CPHL), Uganda.
 
 #### One Health:
 
-* **David Kateete :** Makerere University / MakBRC , Uganda
+* **Kia Praiscillia :** Makerere University, Uganda
+* **Franklin Mayanja :** Fleming Fellowship Alumni, National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 * **Emmanuel Ssebaggala :** Bodastage Solutions, Uganda
-* **Erisa Mwaka :** Makerere University, Uganda
-* **David Kyaddondo :** Makerere University, Uganda
-* **Joshua Asiimwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
-* **Catherine Abenaitwe :** Makerere Biomedical Research Centre (MakBRC), Uganda
+
+
 
 ---
 
