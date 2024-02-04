@@ -87,15 +87,15 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:30</td>  <td>Pre-workshop briefing</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
-<tr>  <td>09:45</td>  <td><i>DNA Extraction Part 1</i></td>  <td>Vesa Qarkaxhija</td></tr>
+<tr>  <td>09:45</td>  <td><i>DNA Extraction Part 1 (3 Hours)</i></td>  <td>Vesa Qarkaxhija</td></tr>
 
-<tr>  <td>12:30</td>  <td>Lunch Break</td>  <td>Everyone</td></tr>
+<tr>  <td>12:45</td>  <td>Lunch Break</td>  <td>Everyone</td></tr>
 
-<tr>  <td>13:15</td>  <td>DNA Extraction Part 2</td>  <td>Vesa Qarkaxhija</td></tr>
+<tr>  <td>13:30</td>  <td>DNA Extraction Part 2 (2 Hours)</td>  <td>Vesa Qarkaxhija</td></tr>
 
-<tr>  <td>14:30</td>  <td><i>Afternoon break</i></td>  <td>Everyone</td></tr>
+<tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>Everyone</td></tr>
 
-<tr>  <td>15:00</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
+<tr>  <td>16:00</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
 
 <tr>  <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebaggala</td></tr>
 
