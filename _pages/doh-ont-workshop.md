@@ -113,15 +113,17 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>Everyone</td></tr>
 
-<tr>  <td>09:30</td>  <td><i>Sequencing library prep</i></td>  <td>Vesa Qarkaxhija</td></tr>
+<tr>  <td>09:30</td>  <td>Bioinformatics overview (EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
+
+<tr>  <td>10:30</td>  <td><i>Sequencing library prep (2 hours)</i></td>  <td>Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>12:30</td>  <td>Lunch</td>  <td>Everyone</td></tr>
 
-<tr>  <td>13:30</td>  <td>Sequencing Run</td>  <td>Vesa Qarkaxhija</td></tr>
+<tr>  <td>13:30</td>  <td>Sequencing Run (1.5 hours)</td>  <td>Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>Everyone</td></tr>
 
-<tr>  <td>15:30</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
+<tr>  <td>15:30</td>  <td>Bioinformatics intepretation (EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
 
