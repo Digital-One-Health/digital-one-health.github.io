@@ -123,7 +123,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>Everyone</td></tr>
 
-<tr>  <td>15:30</td>  <td>Bioinformatics intepretation (EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
+<tr>  <td>15:30</td>  <td>Bioinformatics analysis (EPI2ME)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
 <tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
 
