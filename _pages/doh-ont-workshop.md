@@ -85,7 +85,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:00</td>  <td>Registration and morning coffee</td>  <td>All</td></tr>
 
-<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>Bryan Wee</td></tr>
+<tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All</td></tr>
 
 <tr>  <td>09:45</td>  <td>DNA Extraction Part 1 (3 Hours)</td>  <td>Bryan Wee & Vesa Qarkaxhija</td></tr>
 
