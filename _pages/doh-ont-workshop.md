@@ -83,7 +83,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
 
-<tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>Bryan Wee</td></tr>
+<tr>  <td>09:00</td>  <td>Registration and morning coffee</td>  <td>Bryan Wee</td></tr>
 
 <tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>Bryan Wee</td></tr>
 
@@ -95,11 +95,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>Everyone</td></tr>
 
-<tr>  <td>16:00</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
+<tr>  <td>15:50</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>Bryan Wee</td></tr>
 
-<tr>  <td>15:45</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebaggala</td></tr>
+<tr>  <td>16:20</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>Emmanuel Ssebaggala</td></tr>
 
-<tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
+<tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
 
 </table>
 
