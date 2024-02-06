@@ -135,7 +135,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <br>
 
-### Organisers
+### Trainers
 
 * **Adrian Muwonge :** The Roslin Institute, University of Edinburgh, UK
 * **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
@@ -143,7 +143,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 * **Frank Chilanga:** The Roslin Institute, University of Edinburgh, UK
 
 
-### Workshop attendees
+### Workshop participants
 
 #### Animal health
 
