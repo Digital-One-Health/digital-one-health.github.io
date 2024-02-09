@@ -83,13 +83,13 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
 
-<tr>  <td>09:00</td>  <td>Registration and morning coffee</td>  <td>All</td></tr>
+<tr>  <td>09:00</td>  <td><i>Registration and morning coffee</i></td>  <td>All</td></tr>
 
 <tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
 
 <tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>12:45</td>  <td>Lunch Break</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>12:45</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
@@ -111,11 +111,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td></tr>
 
-<tr>  <td>09:00</td>  <td>Arrival and morning coffee</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>09:00</td>  <td><i>Arrival and morning coffee</i></td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>09:30</td>  <td>Bioinformatics overview (EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>10:30</td>  <td><i>Part 3: Preparing a sequencing library (2 hours)</i></td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>10:30</td>  <td>Part 3: Preparing a sequencing library (2 hours)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>12:30</td>  <td>Lunch</td>  <td>11 participants and trainers only</td></tr>
 
