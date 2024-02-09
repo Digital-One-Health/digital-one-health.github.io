@@ -87,11 +87,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:15</td>  <td>Opening ceremony</td>  <td>All, Dr Susan Nabadda, Dr Adrian Muwonge</td></tr>
 
-<tr>  <td>09:45</td>  <td>DNA Extraction Part 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>09:45</td>  <td>Part 1: DNA Extraction 1 (3 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>12:45</td>  <td>Lunch Break</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>13:30</td>  <td>DNA Extraction Part 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>13:30</td>  <td>Part 2: DNA Extraction 2 (2 Hours)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
 
@@ -115,11 +115,11 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 <tr>  <td>09:30</td>  <td>Bioinformatics overview (EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>10:30</td>  <td><i>Sequencing library prep (2 hours)</i></td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>10:30</td>  <td><i>Part 3: Preparing a sequencing library (2 hours)</i></td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>12:30</td>  <td>Lunch</td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>13:30</td>  <td>Sequencing Run (1.5 hours)</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>13:30</td>  <td>Part 4: Starting a sequencing Run (1.5 hours)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>11 participants and trainers only</td></tr>
 
