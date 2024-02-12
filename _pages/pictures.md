@@ -1,7 +1,6 @@
 ---
 title: "DOH - Pictures"
 layout: piclay
-excerpt: "DOH - Pictures"
 permalink: /pictures/
 ---
 <!--

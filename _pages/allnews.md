@@ -1,7 +1,6 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Digital One Health - University of Edinburgh"
 sitemap: false
 permalink: /allnews.html
 ---

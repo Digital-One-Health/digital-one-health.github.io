@@ -1,7 +1,6 @@
 ---
 title: "DOH - Publications"
 layout: gridlay
-excerpt: "DOH -- Publications."
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,6 @@
 ---
 title: "DOH - Research"
 layout: textlay
-excerpt: "DOH - Research"
 sitemap: false
 permalink: /research/
 ---

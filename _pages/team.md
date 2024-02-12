@@ -1,7 +1,6 @@
 ---
 title: "DOH - Team"
 layout: gridlay
-excerpt: "DOH: Team members"
 sitemap: false
 permalink: /team/
 ---

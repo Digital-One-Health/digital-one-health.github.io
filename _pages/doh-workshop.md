@@ -1,7 +1,6 @@
 ---
 title: "DOH Workshop"
 layout: textlay
-excerpt: "Digital One Health - University of Edinburgh"
 sitemap: false
 permalink: /doh-workshop.html
 ---

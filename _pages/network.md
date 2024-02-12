@@ -1,7 +1,6 @@
 ---
 title: "DOH - AOA"
 layout: textlay_leaflet
-excerpt: "AOA"
 sitemap: false
 permalink: /network.html
 ---

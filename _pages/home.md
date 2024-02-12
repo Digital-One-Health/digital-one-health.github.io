@@ -1,7 +1,6 @@
 ---
 title: "DOH - Home"
 layout: homelay
-excerpt: "Digital One Health - University of Edinburgh."
 sitemap: false
 permalink: /
 ---
