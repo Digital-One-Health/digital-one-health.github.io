@@ -70,6 +70,8 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 [Pre-workshop briefing slides]()
 
+[Dropbox to Workshop material]()
+
 [Collaborative Google Doc]()
 
 ---
