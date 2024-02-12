@@ -67,7 +67,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 [Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
 
-[Pre-workshop briefing slides](./Downloads/DOH-Nanopore_workshop_briefing_presentationdraft.pdf)
+[Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOH-Nanopore_workshop_briefing_presentationdraft.pdf)
 
 [Dropbox to Workshop material]() under construction
 
