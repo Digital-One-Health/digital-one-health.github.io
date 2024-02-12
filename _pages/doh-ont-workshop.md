@@ -68,6 +68,8 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 [Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
 
+[Pre-workshop briefing slides]()
+
 [Collaborative Google Doc]()
 
 ---
