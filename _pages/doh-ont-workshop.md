@@ -63,15 +63,26 @@ This workshop will develop expertise in the generation of whole genome sequences
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
 <br>
 
+---
+
 ## Links
 
 [Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
 
 [Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOH-Nanopore_workshop_briefing_presentationdraft.pdf)
 
-[Dropbox to Workshop material]() under construction
+[Dropbox to Workshop material]() &larr; link not active yet
 
-[Collaborative Google Doc]() under construction
+[Collaborative Google Doc]() &larr; link not active yet
+
+---
+
+### What you have to bring to the workshop
+
+<a href="mailto:b.wee@ed.ac.uk">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Sample_for_workshop.drawio.png" width="90%">
+</a>
+
 
 ---
 
@@ -144,6 +155,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 * **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
 * **Vesa Qarkaxhija:** The Roslin Institute, University of Edinburgh, UK
 * **Frank Chilanga:** The Roslin Institute, University of Edinburgh, UK
+* **Emmanuel Ssebaggala :** Bodastage Solutions, Uganda
 
 
 ### Workshop participants
@@ -171,7 +183,6 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 * **Kia Praiscillia :** Makerere University, Uganda
 * **Franklin Mayanja :** Fleming Fellowship Alumni, National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-* **Emmanuel Ssebaggala :** Bodastage Solutions, Uganda
 
 
 
