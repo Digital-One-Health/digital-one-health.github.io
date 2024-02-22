@@ -17,7 +17,7 @@ permalink: /doh-ont-workshop.html
 
 ## Overview
 
-This workshop will develop expertise in the generation of whole genome sequences using Oxford Nanopore technology. This is part of a series of inititiatives from the Digital One Health Laboratory that aims to bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum in Uganda.
+This workshop will provide training to colleagues across the One Health ministires in the generation of bacterial whole genome sequences using Oxford Nanopore technology. This is part of a series of inititiatives from the Digital One Health Laboratory that aims to bring together [AMR](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance) stakeholders from various institutions across the [One Health](https://www.who.int/health-topics/one-health) spectrum increase the AMR surveillance capacity in Uganda and the region.
 
 <br>
 
@@ -71,7 +71,7 @@ This workshop will develop expertise in the generation of whole genome sequences
 
 [Pre-workshop briefing slides]({{ site.url }}{{ site.baseurl }}/downloads/DOH-Nanopore_workshop_briefing_presentationdraft.pdf)
 
-[Dropbox to Workshop material]() &larr; link not active yet
+[Google Drive - Workshop material](https://drive.google.com/drive/folders/1fKZh36KhvgHPmDXztGZ9KDFRmWNypEd9?usp=sharing)
 
 [Collaborative Google Doc]() &larr; link not active yet
 
