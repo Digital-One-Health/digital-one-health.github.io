@@ -11,7 +11,7 @@ permalink: /doh-ont-workshop.html
 # Digital One Health Nanopore Workshop
 
 **Date:** 26-27 February 2024  
-**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Butabika Road, Uganda
+**Location:** National Health Laboratory and Diagnostic Services (NHLDS), Kampala, Uganda
 
 ---
 
