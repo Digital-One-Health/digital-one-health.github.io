@@ -65,7 +65,7 @@ This workshop will provide training to colleagues across the One Health ministir
 
 ---
 
-## Links
+## Links (For Workshop Use)
 
 [Directions to the venue](https://maps.app.goo.gl/NHBL7g38Cf95bL5j9)
 
