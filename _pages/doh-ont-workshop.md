@@ -109,9 +109,7 @@ This workshop will provide training to colleagues across the One Health ministir
 
 <tr>  <td>15:30</td>  <td><i>Afternoon break</i></td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>15:50</td>  <td>Bioinformatics overview (MinKNOW & EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
-
-<tr>  <td>16:20</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants, trainers & Emmanuel Ssebaggala</td></tr>
+<tr>  <td>16:00</td>  <td>Digital One Health showcase (Bodastage)</td>  <td>11 participants and trainers & Emmanuel Ssebaggala</td></tr>
 
 <tr>  <td>17:00</td>  <td>END</td>  <td>Everyone</td></tr>
 
@@ -127,7 +125,7 @@ This workshop will provide training to colleagues across the One Health ministir
 
 <tr>  <td>09:00</td>  <td><i>Arrival and morning coffee</i></td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>09:30</td>  <td>Bioinformatics overview (EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>09:30</td>  <td>Bioinformatics overview (MinKnow overview)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>10:30</td>  <td>Part 3: Preparing a sequencing library (2 hours)</td>  <td>11 participants and trainers only</td></tr>
 
@@ -137,7 +135,7 @@ This workshop will provide training to colleagues across the One Health ministir
 
 <tr>  <td>15:00</td>  <td><i>Afternoon tea</i></td>  <td>11 participants and trainers only</td></tr>
 
-<tr>  <td>15:30</td>  <td>Bioinformatics analysis (EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>15:30</td>  <td>Bioinformatics overview (EPI2ME)</td>  <td>11 participants and trainers only</td></tr>
 
 <tr>  <td>16:30</td>  <td>END</td>  <td>Everyone</td></tr>
 
