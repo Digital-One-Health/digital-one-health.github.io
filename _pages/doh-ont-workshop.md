@@ -135,7 +135,7 @@ This workshop will provide training to colleagues across the One Health ministir
   </a>
 </div>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
-<br>
+
 
 ---
 
@@ -148,15 +148,6 @@ This workshop will provide training to colleagues across the One Health ministir
 [Google Drive - Workshop material](https://drive.google.com/drive/folders/1fKZh36KhvgHPmDXztGZ9KDFRmWNypEd9?usp=sharing)
 
 [Collaborative Google Doc]() &larr; link not active yet
-
----
-
-### What you have to bring to the workshop
-
-<a href="mailto:b.wee@ed.ac.uk">
-<img src="{{ site.url }}{{ site.baseurl }}/images/Sample_for_workshop.drawio.png" width="90%">
-</a>
-
 
 ---
 

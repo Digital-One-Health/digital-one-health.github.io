@@ -125,8 +125,6 @@ The Digital One Health Lab members, Vesa Qarkaxhija, Bryan Wee, Frank Chilanga a
   </a>
 </div>
 <div class="clearfix"></div> <!-- This will clear any floats, prevents appearing side by side  -->
-<br>
-
 
 ## <a name="20231122"></a>22 November 2023
 
