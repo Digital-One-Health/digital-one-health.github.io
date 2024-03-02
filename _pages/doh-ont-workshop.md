@@ -28,6 +28,16 @@ This workshop will provide training to colleagues across the One Health ministir
 <!-- Menu -->
 <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+    <li data-target="#carousel" data-slide-to="3"></li>
+    <li data-target="#carousel" data-slide-to="4"></li>
+    <li data-target="#carousel" data-slide-to="5"></li>
+    <li data-target="#carousel" data-slide-to="6"></li>
+    <li data-target="#carousel" data-slide-to="7"></li>
+    <li data-target="#carousel" data-slide-to="8"></li>
+    <li data-target="#carousel" data-slide-to="9"></li>
+    <li data-target="#carousel" data-slide-to="10"></li>
 </ol>
 
 <!-- Items -->
@@ -41,7 +51,7 @@ This workshop will provide training to colleagues across the One Health ministir
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nhlds2.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nhlds2.jpeg" alt="Slide 2" />
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
@@ -49,7 +59,7 @@ This workshop will provide training to colleagues across the One Health ministir
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DrSusanHandover.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DrSusanHandover.jpeg" alt="Slide 3" />
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
@@ -57,7 +67,7 @@ This workshop will provide training to colleagues across the One Health ministir
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW1.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/naddec2024handover.jpg" alt="Slide 4" />
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
@@ -65,7 +75,7 @@ This workshop will provide training to colleagues across the One Health ministir
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW2.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/mwe2024handover.jpeg" alt="Slide 5" />
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
@@ -73,7 +83,39 @@ This workshop will provide training to colleagues across the One Health ministir
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW2.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW1.jpeg" alt="Slide 6" />
+        <!-- Caption -->
+        <div class="carousel-caption">
+            <h3></h3>
+            <p>NHLDS, Kampala</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW2.jpeg" alt="Slide 7" />
+        <!-- Caption -->
+        <div class="carousel-caption">
+            <h3></h3>
+            <p>NHLDS, Kampala</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW3.jpeg" alt="Slide 8" />
+        <!-- Caption -->
+        <div class="carousel-caption">
+            <h3></h3>
+            <p>NHLDS, Kampala</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW4.jpeg" alt="Slide 9" />
+        <!-- Caption -->
+        <div class="carousel-caption">
+            <h3></h3>
+            <p>NHLDS, Kampala</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DOHNW5.jpeg" alt="Slide 10" />
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
