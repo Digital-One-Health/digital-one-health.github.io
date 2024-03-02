@@ -2315,9 +2315,7 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 
 .carousel-inner > .active.right { left: 100%; }
 
-/* Edited this line on 02/03/2024 to enlarge the carousel height */
-@media (min-width: 768px) { .carousel-inner { height: 360px; /* or whatever fixed height you desire */ } } 
-/* @media (min-width: 768px) { .carousel-inner { height: 360px; /* or whatever fixed height you desire */ } } */
+@media (min-width: 768px) { .carousel-inner { height: 360px; /* or whatever fixed height you desire */ } }
 
 .carousel-control { position: absolute; top: 0; left: 0; bottom: 0; width: 15%; opacity: 0.7; filter: alpha(opacity=70); font-size: 20px; color: #fff; text-align: center; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); background-color: rgba(0, 0, 0, 0); }
 
