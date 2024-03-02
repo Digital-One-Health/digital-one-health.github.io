@@ -12,8 +12,7 @@ permalink: /fullnews.html
 
 ## <a name="20240226"></a>26 February 2024
 
-The Digital One Health Lab members, Vesa Qarkaxhija, Bryan Wee, Frank Chilanga and Adrian Muwonge organised a Nanopore bacterial whole genome sequencing workshop in Kampala, Uganda. At this workshop 
-
+The Digital One Health Lab members, Vesa Qarkaxhija, Bryan Wee, Frank Chilanga and Adrian Muwonge organised a Nanopore bacterial whole genome sequencing workshop in Kampala, Uganda.
 
 <div id="carousel" class="carousel slide col-md-8 fixed-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
 
