@@ -18,7 +18,7 @@ University of Copenhagen
 
 <br>
 <br>
-
+<!-- 
 #### IDEAS Consortium (Integrated Digital One Health for AMR Surveillance)
 
 <div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-2aa400a1dd23ae31439d" style="width:80%;height:480px;"></div>
@@ -26,7 +26,7 @@ University of Copenhagen
 
 <!-- instructions from
 https://dieghernan.github.io/201905_Leaflet_R_Jekyll/#the-githubjekyll-part -->
-
+ -->
 <br>
 <br>
 <br>
