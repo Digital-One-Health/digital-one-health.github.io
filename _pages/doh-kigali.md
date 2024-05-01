@@ -77,7 +77,7 @@ Under construction
   </div> <!-- Image 1 -->
   <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="max-width:7em">
   </div> <!-- Image 2 -->
-  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-makerere.jpg" class="img-fluid" alt="Makrere University" style="max-width:8em">
+  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rwandabiomedicalcentre.png" class="img-fluid" alt="Makrere University" style="margin-top: 40px; max-width:10em">
   </div> <!-- Image 3 -->
 </div>
 
