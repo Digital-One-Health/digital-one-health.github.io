@@ -75,7 +75,7 @@ Under construction
 <div class="row">
   <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/roslin_logo.jpg" class="img-fluid" alt="The Roslin Institute" style="margin-top: 60px; height: 50px">
   </div> <!-- Image 1 -->
-  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="max-width:7em">
+  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="margin-left: 10px; max-width:7em">
   </div> <!-- Image 2 -->
   <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rwandabiomedicalcentre.png" class="img-fluid" alt="Makrere University" style="margin-top: 40px; max-width:10em">
   </div> <!-- Image 3 -->
