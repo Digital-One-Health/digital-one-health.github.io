@@ -37,7 +37,7 @@ A One Health prioritisation  will be held with stakeholders from the Ministry of
         <!-- Caption -->
         <div class="carousel-caption">
             <h3></h3>
-            <p>Serna Hotel, Kigali</p>
+            <p>Serena Hotel, Kigali</p>
         </div>
     </div>
 </div>
