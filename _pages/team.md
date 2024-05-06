@@ -59,6 +59,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 6 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+
+  {% endif %}
+
   </ul>
 </div>
 
@@ -135,7 +145,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-<!-- 
+
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -169,7 +179,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+
+## Former visitors, BSc & MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -178,6 +189,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {{ member.name }}
 {% endfor %}
 </div>
+
+<!-- 
+
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
@@ -194,7 +208,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
