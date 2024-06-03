@@ -19,6 +19,9 @@ permalink: /doh-kampala202406.html
 
 The workshop aims to refine the strategy for piloting the One Health Living Laboratory model in Uganda. This initiative is a collaborative partnership between the Makerere University Centre for Health and Population Research (MUCHAP), Makerere University Biomedical Research Centre, the College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB), the University of Edinburgh, the Roslin Institute, and the Royal (Dick) School of Veterinary Studies.
  
+This initiative is part of the University of Edinburgh’s strategy to implement One Health using a wellbeing economy-based approach. Although the quadripartite joint action plan acknowledges the need for implementing One Health at the national level, it does not specify how this should be done. Without established protocols, methods, and defined processes, it is challenging to develop a unified community of practice. Therefore, we propose the use of One Health Laboratories as dedicated sites for developing and testing these protocols and methodologies. Uganda will host Africa’s first such living laboratory.
+
+Funding: Edinburgh Global's Edinburgh-Africa Catalyst
 
 <br>
 
