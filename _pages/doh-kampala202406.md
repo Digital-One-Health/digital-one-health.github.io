@@ -68,18 +68,18 @@ The workshop aims to refine the strategy for piloting the One Health Living Labo
 
 <tr>  <td><b>Time</b></td>  <td><b>Session</b></td>  <td><b>Who</b></td><td><b>Moderator</b></td></tr>
 
-<tr>  <td>08:30</td>  <td><i>Arrival & registration</i></td>  <td>All</td> <td>Dr. Kirimunda Samuel</td></tr>
+<tr>  <td>08:30</td>  <td><i>Arrival & registration</i></td>  <td>All</td> <td></td></tr>
 
 <tr>  <td>09:00</td>  <td>Opening Remarks</td>  <td>Assoc. Prof. David Kateete</td> <td>Dr. Kirimunda Samuel</td></tr>
 
-<tr>  <td>09:15</td>  <td>Presentation: Roslin Institute One-Health perspective </td>  <td>Dr. Kirimunda Samuel</td><td>Dr. Adrian Muwonge</td></tr>
+<tr>  <td>09:15</td>  <td>Presentation: Roslin Institute One-Health perspective </td>  <td>Dr. Adrian Muwonge</td><td>Dr. Kirimunda Samuel</td></tr>
 
-<tr>  <td>9:45</td>  <td>Presentation: Population Cohort Makerere University Centre for Health and Population Research (MUCHAP) and Iganga Mayuge HDSS
+<tr>  <td>9:45</td>  <td>Presentation: Population Cohort<br> Makerere University Centre for Health and Population Research (MUCHAP) and Iganga Mayuge HDSS
 </td>  <td>Dr. Dan Kazungu</td> <td>Dr. Kirimunda Samuel</td></tr>
 
 <tr>  <td>10:15</td>  <td><i>Tea & Coffee Break</i></td>  <td>All</td><td>Admin</td></tr>
 
-<tr>  <td>11:00</td>  <td>Presentation: Makerere University Biomedical Research Centre</td>  <td>Mr. Rogers Kamulegeya</td><td>Dr. Adrian Muwonge</td></tr>
+<tr>  <td>11:00</td>  <td>Presentation: Makerere University Biomedical Research Centre</td>  <td>Prof. Moses Joloba</td><td>Mr. Rogers Kamulegeya</td></tr>
 
 <tr>  <td>11:30</td>  <td>Presentation: COVAB Biosecurity/One health platform</td>  <td>Dr. Kankya Clovice</td><td>Mr. Rogers Kamulegeya</td></tr>
 
@@ -134,8 +134,8 @@ The workshop aims to refine the strategy for piloting the One Health Living Labo
   </div> <!-- Image 3 -->
 </div>
 <div class="row">
-  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MUCPHR.png" class="img-fluid" alt="Roslin" style="max-width:30em">
-  </div> 
+  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MUCPHR.png" class="img-fluid" alt="MUCHAP" style="max-width:30em">
+  </div>
 
 </div>
 
