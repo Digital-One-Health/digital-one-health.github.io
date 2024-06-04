@@ -139,7 +139,10 @@ Funding: Edinburgh Global's Edinburgh-Africa Catalyst
 <div class="row">
   <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MUCPHR.png" class="img-fluid" alt="MUCHAP" style="max-width:30em">
   </div>
-
+</div>
+<div class="row">
+  <div class="col-lg-2 col-md-3 col-4"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/covab.png" class="img-fluid" alt="COVAB" style="max-width:10em">
+  </div>
 </div>
 
 
