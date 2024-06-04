@@ -133,7 +133,7 @@ Funding: Edinburgh Global's Edinburgh-Africa Catalyst
   </div> <!-- Image 1 -->
   <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-edinburgh.png" class="img-fluid" alt="University of Edinburgh" style="margin-left: 10px; max-width:7em">
   </div> <!-- Image 2 -->
-  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/makerere.jpg" class="img-fluid" alt="Makrere University" style="margin-top: 20px; width: 100%">
+  <div class="col-lg-2 col-md-3 col-4 py-3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-makerere.jpg" class="img-fluid" alt="Makrere University" style="margin-top: 20px; width: 90%">
   </div> <!-- Image 3 -->
 </div>
 <div class="row">
