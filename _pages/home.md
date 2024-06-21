@@ -30,7 +30,7 @@ permalink: /
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FlemingUganda2022jumping.jpeg" alt="Slide 2" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rbc_jun2024.jpeg" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/rbc_jun2024.jpeg" alt="Slide 3" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/projectTHEA.png" alt="Slide 4" />
