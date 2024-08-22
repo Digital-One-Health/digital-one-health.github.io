@@ -198,7 +198,7 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 #### Environmental health
 
-* **George Olum :** Ministry of Water and Environment (MWE), Uganda.
+* **Abraham Otai Samuel :** Ministry of Water and Environment (MWE), Uganda.
 * **Ankunda Penrose :** Ministry of Water and Environment (MWE), Uganda.
 
 #### Human health
