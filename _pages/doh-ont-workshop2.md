@@ -10,7 +10,7 @@ permalink: /doh-ont-workshop2.html
 <br>
 # Digital One Health Nanopore Bioinformatics Workshop
 
-**Date:** 26-27 August 2024  
+**Date:** Tuesday, 27 August 2024  
 **Location:** National Health Laboratory and Diagnostic Services (NHLDS), Kampala, Uganda
 
 ---
@@ -187,12 +187,7 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 ### Trainers
 
-* **Adrian Muwonge :** The Roslin Institute, University of Edinburgh, UK
 * **Bryan Wee:** The Roslin Institute, University of Edinburgh, UK
-* **Vesa Qarkaxhija:** The Roslin Institute, University of Edinburgh, UK
-* **Frank Chilanga:** The Roslin Institute, University of Edinburgh, UK
-* **Emmanuel Ssebaggala :** Bodastage Solutions, Uganda
-
 
 ### Workshop participants
 
@@ -200,26 +195,16 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 * **Arinaitwe Eugene :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 * **Gladys Nakanjako Kiggundu :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-* **Esther Nabattta :** National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
 
 #### Environmental health
 
 * **George Olum :** Ministry of Water and Environment (MWE), Uganda.
 * **Ankunda Penrose :** Ministry of Water and Environment (MWE), Uganda.
-* **Godfrey Katumba :** Ministry of Water and Environment (MWE), Uganda
 
 #### Human health
 
-* **Daniel Eurien :** Central Public Health Laboratories (CPHL), Uganda.
-* **Lydia Bulyaba :** Central Public Health Laboratories (CPHL), Uganda.
-* **Julius Sseruyange :** Central Public Health Laboratories (CPHL), Uganda.
+* **Stephen Kanyerezi :** Central Public Health Laboratories (CPHL), Uganda.
 * **Godwin Tusabe :** Central Public Health Laboratories (CPHL), Uganda.
-
-#### One Health:
-
-* **Kia Praiscillia :** Makerere University, Uganda
-* **Franklin Mayanja :** Fleming Fellowship Alumni, National Animal Disease Diagnostic and Epidemiology Center (NADDEC), Uganda.
-
 
 
 ---
