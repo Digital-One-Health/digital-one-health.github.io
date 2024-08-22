@@ -166,7 +166,7 @@ This workshop will provide hands-on experience preparing bacterial isolates for 
 
 <tr>  <td>09:45</td>  <td>EPI2ME for Basecalling and Analysis</td>  <td>All</td></tr>
 
-<tr>  <td>12:30</td>  <td><i>Lunch Break</i></td>  <td>11 participants and trainers only</td></tr>
+<tr>  <td>12:30</td>  <td><i>Lunch Break</i></td>  <td>All</td></tr>
 
 <tr>  <td>13:30</td>  <td>Galaxy for Bioinformatic analysis</td>  <td>All</td></tr>
 
